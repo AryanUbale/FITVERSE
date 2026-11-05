@@ -1,62 +1,185 @@
-# FitVerse – 3D Performance
+# FITVERSE – Your Personal Fitness Companion
 
-A responsive desktop fitness web application engineered with real-time 3D biomechanical visualizations, unified exercise telemetry, and a futuristic dark navy UI design system.
+FITVERSE is a fitness and workout management web application designed to help users plan workouts, explore exercises, track fitness progress, and stay consistent with their fitness goals.
 
----
+The application brings workout planning, exercise guidance, progress tracking, and personalized fitness management together in one platform.
 
-## 🎨 Design System & Architecture
+## Features
 
-- **Color Palette**:
-  - Page Background: Deep Navy `#14132B`
-  - Card Surfaces: Deep Indigo Surface `#1E1D3A`
-  - Primary Accent: Electric Indigo `#4F5BFF` to `#5B6CFF`
-  - Accent Palette: Cyan `#4DD0E1`, Purple `#6C3CE0`, Coral `#FF5C5C`, Green `#2ED8A3`, Soft Blue `#5B7CFA`
-- **Typography**: Montserrat (400, 500, 600, 700, 800)
-- **Radii**: 24px–32px on cards, 16px on buttons and chips
-- **Glassmorphism**: Glass stat pills, subtle translucent borders (`rgba(255,255,255,0.06)`), and responsive hover lift with colored glows
+### 1. Dashboard
+- Personalized fitness dashboard.
+- Daily fitness goals and activity statistics.
+- Recommended workouts.
+- Workout summaries and activity indicators.
 
----
+### 2. Exercise Library
+- Browse exercises across different categories.
+- View detailed exercise information.
+- Explore gym, home, and Pilates exercises.
+- Access exercise video previews.
+- View 3D exercise visualizations.
 
-## 🗄️ Database Integration
+### 3. Workout Management
+- Explore available workout plans.
+- Manage workout routines.
+- Track active workout sessions.
+- Access virtual trainer guidance.
 
-The exercise data is consolidated from the master Excel workbook `FormFit3D_Exercise_Database.xlsx`, providing:
-- **33 Exercises** across Gym, Home, and Pilates disciplines with biomechanical execution steps, target/secondary muscles, posture cues, safety tips, and alternatives
-- **10 Workout Plans & Multi-Week Schedules**
-- Single authoritative JSON database (`src/data/exerciseDatabase.json`) with backwards-compatible modules (`gymExercises.js`, `homeExercises.js`, `pilatesExercises.js`, `workoutPlans.js`)
+### 4. Equipment Guide
+- Explore fitness equipment and their uses.
+- Discover alternative equipment options.
+- Find ways to perform exercises with available resources.
 
----
+### 5. Calendar and Progress Tracking
+- View fitness activities through a calendar.
+- Monitor workout progress.
+- Track achievements and milestones.
+- View fitness-related statistics and calculations.
 
-## 🚀 Key Modules & Components
+### 6. User Management
+- User onboarding.
+- Fitness preferences and settings.
+- Context-based state management.
+- Local storage support for application data.
 
-1. **Top Bar**: Search bar, discipline switchers (Gym / Home / Pilates), active streak pill, and Start Workout trigger.
-2. **Fixed Sidebar (260px)**: FitVerse brand identity, discipline switcher grid, navigation items with indigo active pills, and user profile card.
-3. **Stat Tiles**: 4 responsive solid color blocks (Total Sessions, Training Duration, Active Streak, Exercises Done).
-4. **3D Fitness Companion (8 cols)**: Interactive Three.js/R3F human anatomical model with hover-only muscle highlighting, Front/Back/Side camera toggles, and saturated radial indigo background glow.
-5. **Today's Workout (4 cols)**: Gradient card with cutout athlete, duration and volume pills, exercise checklist, and glowing Start Workout CTA.
-6. **Top Trainings Hero & Category Tiles**: Hero functional conditioning card with cutout athlete beside icon category selector (Running, Cycling, Walking, Yoga, Strength).
-7. **Curated Workouts Row**: 3 themed cards (Weight Loss Training, Cardio Training, Belly Fat Loose Training) with cutout athletes and stats.
-8. **Activity Progress Ring**: Circular animated progress ring (80%), week date selector with dynamic report tiles (Kcal Burnt, Heart Rate, Steps, Workout Duration).
-9. **Recommended Classes**: Horizontal class cards with instructor and calorie telemetry.
-10. **Collapsible Right Panel (320px)**: Daily goals (jogging route tracker, remaining distance) and Core Blast trainer selector.
-11. **Split-Screen Onboarding**: Blue mindfulness panel with athlete cutout and selectable favorite workout category chip grid.
+## Tech Stack
 
----
+- **Frontend:** React.js
+- **Build Tool:** Vite
+- **Styling:** Tailwind CSS
+- **Animations:** Framer Motion
+- **Charts:** Recharts
+- **3D Visualizations:** React Three Fiber / Three.js (where used)
+- **Data Storage:** Browser Local Storage
 
-## 📦 Getting Started
+## Project Structure
 
-### 1. Install Dependencies
+```text
+FITVERSE/
+│
+├── public/
+│
+├── src/
+│   ├── components/
+│   │   ├── 3D/
+│   │   ├── Dashboard/
+│   │   ├── Layout/
+│   │   ├── ui/
+│   │   └── video/
+│   │
+│   ├── context/
+│   │   └── FitnessContext.jsx
+│   │
+│   ├── data/
+│   │   ├── exerciseDatabase.json
+│   │   ├── gymExercises.js
+│   │   ├── homeExercises.js
+│   │   ├── pilatesExercises.js
+│   │   ├── equipmentGuide.js
+│   │   ├── equipmentAlternatives.js
+│   │   ├── exerciseVideos.js
+│   │   ├── workoutPlans.js
+│   │   ├── trainerKnowledge.js
+│   │   ├── mockTrainingData.js
+│   │   └── achievements.js
+│   │
+│   ├── pages/
+│   │   ├── LandingPage.jsx
+│   │   ├── Dashboard.jsx
+│   │   ├── Onboarding.jsx
+│   │   ├── ExerciseLibrary.jsx
+│   │   ├── ExerciseDetails.jsx
+│   │   ├── EquipmentGuidePage.jsx
+│   │   ├── EquipmentAlternativesPage.jsx
+│   │   ├── WorkoutPlans.jsx
+│   │   ├── ActiveWorkoutSession.jsx
+│   │   ├── VirtualTrainerPage.jsx
+│   │   ├── CalendarPage.jsx
+│   │   ├── ProgressPage.jsx
+│   │   ├── Achievements.jsx
+│   │   └── Settings.jsx
+│   │
+│   ├── styles/
+│   │   └── index.css
+│   │
+│   ├── utils/
+│   │   ├── calculations.js
+│   │   └── storage.js
+│   │
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── index.html
+├── package.json
+├── package-lock.json
+├── tailwind.config.js
+├── postcss.config.js
+├── vite.config.js
+└── README.md
+```
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+- npm
+- Git
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/AryanUbale/FITVERSE.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd FITVERSE
+```
+
+3. Install dependencies:
+
 ```bash
 npm install
 ```
 
-### 2. Start Development Server
+4. Start the development server:
+
 ```bash
 npm run dev
 ```
-Open [http://localhost:3000](http://localhost:3000) (or the port displayed in terminal) in your browser.
 
-### 3. Production Build & Verification
+5. Open the local URL displayed in your terminal (usually `http://localhost:3000/`).
+
+## Running a Production Build
+
+To create a production build:
+
 ```bash
 npm run build
+```
+
+To preview the production build:
+
+```bash
 npm run preview
 ```
+
+## Team Contributions
+
+FITVERSE was developed collaboratively by a team of five members, with responsibilities distributed across the user interface, exercise library, workout management, progress tracking, and application integration.
+
+## Future Enhancements
+
+- Integration with wearable fitness devices.
+- More personalized workout recommendations.
+- Enhanced fitness analytics.
+- Expanded exercise and equipment database.
+- Improved workout personalization and tracking.
+
+---
+
+**FITVERSE – Train Smarter. Stay Consistent. Get Stronger.**
