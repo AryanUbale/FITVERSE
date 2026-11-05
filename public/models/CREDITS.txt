@@ -1,0 +1,4 @@
+Human model: Mixamo character Ch36
+Source: Adobe Mixamo
+License/terms: Adobe Mixamo free-use terms (as supplied by the project owner); model provided by the project owner.
+The model is loaded locally from /models/human.glb. No model assets are fetched from the internet at runtime.

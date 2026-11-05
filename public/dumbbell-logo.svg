@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <rect width="48" height="48" rx="12" fill="#000000" />
+  <rect x="0.5" y="0.5" width="47" height="47" rx="11.5" stroke="#FFD21F" stroke-opacity="0.3" />
+  
+  <!-- Barbell/Dumbbell Handle -->
+  <rect x="18" y="22" width="12" height="4" rx="2" fill="#FFFFFF" />
+  <line x1="20" y1="22" x2="20" y2="26" stroke="#000000" stroke-width="1" />
+  <line x1="24" y1="22" x2="24" y2="26" stroke="#000000" stroke-width="1" />
+  <line x1="28" y1="22" x2="28" y2="26" stroke="#000000" stroke-width="1" />
+  
+  <!-- Left Weight Plates -->
+  <rect x="14" y="16" width="4" height="16" rx="2" fill="#FFD21F" />
+  <rect x="9" y="19" width="4" height="10" rx="2" fill="#FFE04D" />
+  <rect x="6" y="22" width="2" height="4" rx="1" fill="#FFFFFF" opacity="0.6" />
+  
+  <!-- Right Weight Plates -->
+  <rect x="30" y="16" width="4" height="16" rx="2" fill="#FFD21F" />
+  <rect x="35" y="19" width="4" height="10" rx="2" fill="#FFE04D" />
+  <rect x="40" y="22" width="2" height="4" rx="1" fill="#FFFFFF" opacity="0.6" />
+</svg>
+
