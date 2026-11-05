@@ -1,0 +1,3556 @@
+{
+  "exercises": [
+    {
+      "id": "gym-bench-press",
+      "name": "Barbell Bench Press",
+      "category": "gym",
+      "muscleGroup": "Chest",
+      "muscleGroupStd": "Chest",
+      "targetMuscles": [
+        "Pectoralis Major",
+        "Anterior Deltoids"
+      ],
+      "secondaryMuscles": [
+        "Triceps Brachii",
+        "Serratus Anterior"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Pectoralis Major",
+          "Anterior Deltoids"
+        ],
+        "secondary": [
+          "Triceps Brachii",
+          "Serratus Anterior"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Barbell & Bench",
+      "equipmentStd": "Barbell",
+      "difficulty": "Intermediate",
+      "recommendedSets": 4,
+      "recommendedReps": "8-12",
+      "repsMin": 8,
+      "repsMax": 12,
+      "repUnit": "reps",
+      "perSide": false,
+      "defaultWeightKg": 60,
+      "breathCycleSeconds": null,
+      "whatItIs": "The premier compound upper-body pressing movement executed lying supine on a flat bench, pressing an Olympic barbell upward from chest level.",
+      "whyItIsUseful": "Unmatched mechanical tension and overload capability for building upper-body pressing power, chest mass, and front shoulder stability.",
+      "benefits": "Unmatched mechanical tension and overload capability for building upper-body pressing power, chest mass, and front shoulder stability.",
+      "startingPosition": null,
+      "correctPosture": "Maintain 5 points of contact: head, upper back, glutes on the bench, and both feet flat on the floor. Elbows should flare roughly 45-70 degrees, never 90 degrees.",
+      "breathingInstructions": "Inhale and brace core (Valsalva maneuver) at the top or on the way down; exhale forcefully through the sticking point on the ascent.",
+      "movementControlTips": null,
+      "householdSubstitute": null,
+      "stepByStep": [
+        "Lie flat on the bench with your eyes directly under the racked barbell. Plant feet firmly on the ground.",
+        "Grip the bar slightly wider than shoulder-width with a firm, thumb-around grip.",
+        "Retract and depress your scapulae into the bench, creating a stable arch in your upper back.",
+        "Unrack the bar and stabilize it directly over your chest with elbows locked.",
+        "Inhale deeply, bracing your core, and lower the bar under control to your mid-chest line (around the sternum).",
+        "Touch the chest softly without bouncing, then drive through your palms and leg drive to press the bar back up in a slight arc."
+      ],
+      "stepByStepExecution": [
+        "Lie flat on the bench with your eyes directly under the racked barbell. Plant feet firmly on the ground.",
+        "Grip the bar slightly wider than shoulder-width with a firm, thumb-around grip.",
+        "Retract and depress your scapulae into the bench, creating a stable arch in your upper back.",
+        "Unrack the bar and stabilize it directly over your chest with elbows locked.",
+        "Inhale deeply, bracing your core, and lower the bar under control to your mid-chest line (around the sternum).",
+        "Touch the chest softly without bouncing, then drive through your palms and leg drive to press the bar back up in a slight arc."
+      ],
+      "commonMistakes": [
+        "Bouncing the bar off the rib cage causing sternum and momentum damage.",
+        "Flaring elbows excessively out at 90 degrees, stressing the rotator cuff.",
+        "Lifting glutes off the bench to cheat the weight."
+      ],
+      "safetyTips": [
+        "Always ensure collar clips are locked on the bar sleeves.",
+        "Use safety spotter arms or a reliable spotter when testing heavy sets.",
+        "Never use a 'suicide' (thumbless) grip."
+      ],
+      "alternatives": [
+        "Dumbbell Bench Press",
+        "Machine Chest Press",
+        "Weighted Push-Up"
+      ],
+      "variations": {
+        "easier": [],
+        "harder": [],
+        "alternatives": [
+          "Dumbbell Bench Press",
+          "Machine Chest Press",
+          "Weighted Push-Up"
+        ]
+      }
+    },
+    {
+      "id": "gym-barbell-squat",
+      "name": "Barbell Back Squat",
+      "category": "gym",
+      "muscleGroup": "Quadriceps",
+      "muscleGroupStd": "Legs",
+      "targetMuscles": [
+        "Quadriceps (Rectus Femoris, Vastus Medialis)",
+        "Gluteus Maximus"
+      ],
+      "secondaryMuscles": [
+        "Hamstrings",
+        "Erector Spinae",
+        "Transverse Abdominis",
+        "Calves"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Quadriceps (Rectus Femoris, Vastus Medialis)",
+          "Gluteus Maximus"
+        ],
+        "secondary": [
+          "Hamstrings",
+          "Erector Spinae",
+          "Transverse Abdominis",
+          "Calves"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Squat Rack & Barbell",
+      "equipmentStd": "Barbell",
+      "difficulty": "Advanced",
+      "recommendedSets": 4,
+      "recommendedReps": "6-10",
+      "repsMin": 6,
+      "repsMax": 10,
+      "repUnit": "reps",
+      "perSide": false,
+      "defaultWeightKg": 80,
+      "breathCycleSeconds": null,
+      "whatItIs": "The gold-standard lower body compound movement loading an Olympic bar across the upper trapezius or rear deltoids through full hip and knee flexion.",
+      "whyItIsUseful": "Stimulates maximum lower body hypertrophy, posterior chain density, systemic hormonal release, and core bracing power.",
+      "benefits": "Stimulates maximum lower body hypertrophy, posterior chain density, systemic hormonal release, and core bracing power.",
+      "startingPosition": null,
+      "correctPosture": "Keep spine neutral throughout; do not let knees cave inward (valgus collapse). Chest remains upright with neck aligned.",
+      "breathingInstructions": "Big breath into belly at the top, brace against lifting belt, hold breath through the descent, exhale past halfway up.",
+      "movementControlTips": null,
+      "householdSubstitute": null,
+      "stepByStep": [
+        "Step under the barbell resting on the squat rack hooks; position bar securely on upper traps (high bar) or across rear delts (low bar).",
+        "Grip bar firmly, unrack by standing tall, and take two controlled steps back.",
+        "Set feet slightly wider than shoulder-width, toes angled 15-30 degrees outward.",
+        "Take a deep diaphragmatic breath into the abdomen, break at hips and knees simultaneously.",
+        "Descend smoothly until hip crease drops below the top of the patella (parallel depth).",
+        "Drive the floor away through midfoot and heels, maintaining chest angle, until fully locked out."
+      ],
+      "stepByStepExecution": [
+        "Step under the barbell resting on the squat rack hooks; position bar securely on upper traps (high bar) or across rear delts (low bar).",
+        "Grip bar firmly, unrack by standing tall, and take two controlled steps back.",
+        "Set feet slightly wider than shoulder-width, toes angled 15-30 degrees outward.",
+        "Take a deep diaphragmatic breath into the abdomen, break at hips and knees simultaneously.",
+        "Descend smoothly until hip crease drops below the top of the patella (parallel depth).",
+        "Drive the floor away through midfoot and heels, maintaining chest angle, until fully locked out."
+      ],
+      "commonMistakes": [
+        "Rounding the lumbar spine at the bottom ('butt wink').",
+        "Knees caving inward under heavy load.",
+        "Shifting weight forward onto the toes causing heels to lift."
+      ],
+      "safetyTips": [
+        "Set rack safety pins 2-3 inches below bottom squat depth.",
+        "Warm up hip adductors, ankles, and thoracic spine before loading."
+      ],
+      "alternatives": [
+        "Leg Press",
+        "Goblet Squat",
+        "Hack Squat",
+        "Front Squat"
+      ],
+      "variations": {
+        "easier": [],
+        "harder": [],
+        "alternatives": [
+          "Leg Press",
+          "Goblet Squat",
+          "Hack Squat",
+          "Front Squat"
+        ]
+      }
+    },
+    {
+      "id": "gym-lat-pulldown",
+      "name": "Cable Lat Pulldown",
+      "category": "gym",
+      "muscleGroup": "Back",
+      "muscleGroupStd": "Back",
+      "targetMuscles": [
+        "Latissimus Dorsi",
+        "Teres Major"
+      ],
+      "secondaryMuscles": [
+        "Biceps Brachii",
+        "Rhomboids",
+        "Posterior Deltoids"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Latissimus Dorsi",
+          "Teres Major"
+        ],
+        "secondary": [
+          "Biceps Brachii",
+          "Rhomboids",
+          "Posterior Deltoids"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Cable Lat Pulldown Machine",
+      "equipmentStd": "Cable Machine",
+      "difficulty": "Beginner",
+      "recommendedSets": 3,
+      "recommendedReps": "10-15",
+      "repsMin": 10,
+      "repsMax": 15,
+      "repUnit": "reps",
+      "perSide": false,
+      "defaultWeightKg": 45,
+      "breathCycleSeconds": null,
+      "whatItIs": "A vertical pulling exercise performed on an adjustable cable stack, pulling a wide or neutral bar downward toward the upper clavicle.",
+      "whyItIsUseful": "Builds back width, lat taper (the 'V-taper'), and scapular depression control without requiring bodyweight pull-up capacity.",
+      "benefits": "Builds back width, lat taper (the 'V-taper'), and scapular depression control without requiring bodyweight pull-up capacity.",
+      "startingPosition": null,
+      "correctPosture": "Keep ribs down, slight natural thoracic arch, avoid swinging torso aggressively backwards to swing the stack.",
+      "breathingInstructions": "Inhale while letting arms reach up; exhale as you pull the bar down toward the upper chest.",
+      "movementControlTips": null,
+      "householdSubstitute": null,
+      "stepByStep": [
+        "Adjust thigh pads securely against thighs so your feet remain flat on the floor.",
+        "Grasp the bar with an overhand grip slightly wider than shoulder width.",
+        "Sit down under the pads, lean back slightly (approx 10-15 degrees), and depress your shoulder blades.",
+        "Pull the bar smoothly down to your upper chest by driving your elbows down and back toward your hip pockets.",
+        "Squeeze lats hard at the bottom for 1 second.",
+        "Slowly extend arms overhead back to full stretch, resisting the cable stack."
+      ],
+      "stepByStepExecution": [
+        "Adjust thigh pads securely against thighs so your feet remain flat on the floor.",
+        "Grasp the bar with an overhand grip slightly wider than shoulder width.",
+        "Sit down under the pads, lean back slightly (approx 10-15 degrees), and depress your shoulder blades.",
+        "Pull the bar smoothly down to your upper chest by driving your elbows down and back toward your hip pockets.",
+        "Squeeze lats hard at the bottom for 1 second.",
+        "Slowly extend arms overhead back to full stretch, resisting the cable stack."
+      ],
+      "commonMistakes": [
+        "Pulling the bar behind the neck, causing cervical spine strain.",
+        "Using torso momentum to rock back and turn it into a pseudo-row.",
+        "Letting wrists bend backwards."
+      ],
+      "safetyTips": [
+        "Control the eccentric phase; do not let the weight slam the stack violently.",
+        "Keep shoulders packed down away from ears."
+      ],
+      "alternatives": [
+        "Pull-Ups",
+        "Assisted Pull-Up Machine",
+        "Resistance Band Pulldown"
+      ],
+      "variations": {
+        "easier": [],
+        "harder": [],
+        "alternatives": [
+          "Pull-Ups",
+          "Assisted Pull-Up Machine",
+          "Resistance Band Pulldown"
+        ]
+      }
+    },
+    {
+      "id": "gym-leg-press",
+      "name": "45-Degree Incline Leg Press",
+      "category": "gym",
+      "muscleGroup": "Quadriceps",
+      "muscleGroupStd": "Legs",
+      "targetMuscles": [
+        "Quadriceps",
+        "Gluteus Maximus"
+      ],
+      "secondaryMuscles": [
+        "Hamstrings",
+        "Calves"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Quadriceps",
+          "Gluteus Maximus"
+        ],
+        "secondary": [
+          "Hamstrings",
+          "Calves"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Incline Leg Press Machine",
+      "equipmentStd": "Machine",
+      "difficulty": "Beginner",
+      "recommendedSets": 4,
+      "recommendedReps": "10-15",
+      "repsMin": 10,
+      "repsMax": 15,
+      "repUnit": "reps",
+      "perSide": false,
+      "defaultWeightKg": 120,
+      "breathCycleSeconds": null,
+      "whatItIs": "A guided machine pressing movement where you push a weighted sled upward along 45-degree angled tracks using knee and hip extension.",
+      "whyItIsUseful": "Allows immense quad and glute overload with reduced spinal compressive stress compared to free-weight squats.",
+      "benefits": "Allows immense quad and glute overload with reduced spinal compressive stress compared to free-weight squats.",
+      "startingPosition": null,
+      "correctPosture": "Lower back must remain firmly pressed into the seat. Do not let pelvis curl off the pad at maximum depth.",
+      "breathingInstructions": "Inhale smoothly as platform lowers toward you; exhale as you press the sled away.",
+      "movementControlTips": null,
+      "householdSubstitute": null,
+      "stepByStep": [
+        "Sit back firmly into the machine seat with your back and glutes flush against the pads.",
+        "Place feet shoulder-width apart in the center of the sled platform.",
+        "Disengage safety levers while extending legs (never hyperextend or lock knees completely).",
+        "Lower the sled smoothly by flexing knees toward chest until knees reach approximately 90 degrees.",
+        "Press through mid-foot and heels to drive the platform back to top starting position."
+      ],
+      "stepByStepExecution": [
+        "Sit back firmly into the machine seat with your back and glutes flush against the pads.",
+        "Place feet shoulder-width apart in the center of the sled platform.",
+        "Disengage safety levers while extending legs (never hyperextend or lock knees completely).",
+        "Lower the sled smoothly by flexing knees toward chest until knees reach approximately 90 degrees.",
+        "Press through mid-foot and heels to drive the platform back to top starting position."
+      ],
+      "commonMistakes": [
+        "Locking knees out violently into hyperextension under heavy load.",
+        "Allowing butt to tuck and lift off pad, straining lumbar discs.",
+        "Placing feet too low causing severe patellofemoral shear."
+      ],
+      "safetyTips": [
+        "Always engage safety catch pins before getting in or out.",
+        "Stop depth immediately before tailbone begins to round."
+      ],
+      "alternatives": [
+        "Barbell Back Squat",
+        "Dumbbell Bulgarian Split Squat",
+        "Hack Squat"
+      ],
+      "variations": {
+        "easier": [],
+        "harder": [],
+        "alternatives": [
+          "Barbell Back Squat",
+          "Dumbbell Bulgarian Split Squat",
+          "Hack Squat"
+        ]
+      }
+    },
+    {
+      "id": "gym-dumbbell-shoulder-press",
+      "name": "Seated Dumbbell Shoulder Press",
+      "category": "gym",
+      "muscleGroup": "Shoulders",
+      "muscleGroupStd": "Shoulders",
+      "targetMuscles": [
+        "Anterior Deltoids",
+        "Medial Deltoids"
+      ],
+      "secondaryMuscles": [
+        "Triceps Brachii",
+        "Upper Pectoralis",
+        "Trapezius"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Anterior Deltoids",
+          "Medial Deltoids"
+        ],
+        "secondary": [
+          "Triceps Brachii",
+          "Upper Pectoralis",
+          "Trapezius"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Dumbbells & Adjustable Bench",
+      "equipmentStd": "Dumbbells",
+      "difficulty": "Intermediate",
+      "recommendedSets": 3,
+      "recommendedReps": "8-12",
+      "repsMin": 8,
+      "repsMax": 12,
+      "repUnit": "reps",
+      "perSide": false,
+      "defaultWeightKg": 18,
+      "breathCycleSeconds": null,
+      "whatItIs": "An overhead vertical pressing compound exercise performed seated upright on a bench with back support, pressing independent dumbbells overhead.",
+      "whyItIsUseful": "Develops shoulder boulder mass and pressing symmetry while removing lower back compensation through bench back support.",
+      "benefits": "Develops shoulder boulder mass and pressing symmetry while removing lower back compensation through bench back support.",
+      "startingPosition": null,
+      "correctPosture": "Maintain firm back contact against pad; keep feet planted for stability and avoid excessive lumbar arching.",
+      "breathingInstructions": "Inhale at the bottom, brace core, exhale as you press overhead.",
+      "movementControlTips": null,
+      "householdSubstitute": null,
+      "stepByStep": [
+        "Set an adjustable bench to an 80-85 degree high incline (almost vertical).",
+        "Rest dumbbells on knees while seated; kick dumbbells up one at a time to ear height.",
+        "Position palms facing forward or slightly angled inward at 45 degrees (scapular plane).",
+        "Press dumbbells upward in a smooth arc until arms are extended overhead above ears.",
+        "Pause for a moment at top without clanking dumbbells together.",
+        "Lower under control over 2-3 seconds back to ear level."
+      ],
+      "stepByStepExecution": [
+        "Set an adjustable bench to an 80-85 degree high incline (almost vertical).",
+        "Rest dumbbells on knees while seated; kick dumbbells up one at a time to ear height.",
+        "Position palms facing forward or slightly angled inward at 45 degrees (scapular plane).",
+        "Press dumbbells upward in a smooth arc until arms are extended overhead above ears.",
+        "Pause for a moment at top without clanking dumbbells together.",
+        "Lower under control over 2-3 seconds back to ear level."
+      ],
+      "commonMistakes": [
+        "Arching lower back heavily off the bench to turn it into an incline bench press.",
+        "Banging weights violently at the top.",
+        "Dropping elbows too low and collapsing tension."
+      ],
+      "safetyTips": [
+        "Control descent to protect rotator cuff.",
+        "Use knee-kick technique to safely mount heavy dumbbells."
+      ],
+      "alternatives": [
+        "Barbell Overhead Press (OHP)",
+        "Machine Shoulder Press",
+        "Resistance Band Overhead Press"
+      ],
+      "variations": {
+        "easier": [],
+        "harder": [],
+        "alternatives": [
+          "Barbell Overhead Press (OHP)",
+          "Machine Shoulder Press",
+          "Resistance Band Overhead Press"
+        ]
+      }
+    },
+    {
+      "id": "gym-barbell-deadlift",
+      "name": "Conventional Barbell Deadlift",
+      "category": "gym",
+      "muscleGroup": "Back",
+      "muscleGroupStd": "Back",
+      "targetMuscles": [
+        "Erector Spinae",
+        "Gluteus Maximus",
+        "Hamstrings"
+      ],
+      "secondaryMuscles": [
+        "Latissimus Dorsi",
+        "Trapezius",
+        "Forearms",
+        "Core"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Erector Spinae",
+          "Gluteus Maximus",
+          "Hamstrings"
+        ],
+        "secondary": [
+          "Latissimus Dorsi",
+          "Trapezius",
+          "Forearms",
+          "Core"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Olympic Barbell & Bumper Plates",
+      "equipmentStd": "Barbell",
+      "difficulty": "Advanced",
+      "recommendedSets": 3,
+      "recommendedReps": "5-8",
+      "repsMin": 5,
+      "repsMax": 8,
+      "repUnit": "reps",
+      "perSide": false,
+      "defaultWeightKg": 100,
+      "breathCycleSeconds": null,
+      "whatItIs": "The premier full-body hinge movement lifting a loaded barbell dead from the floor to standing hip lockout.",
+      "whyItIsUseful": "Builds immense posterior chain density, bone mineral density, grip strength, and bulletproof posterior durability.",
+      "benefits": "Builds immense posterior chain density, bone mineral density, grip strength, and bulletproof posterior durability.",
+      "startingPosition": null,
+      "correctPosture": "Spine must remain rigid and neutral from cervical spine to sacrum throughout the entire pull.",
+      "breathingInstructions": "Big belly breath into belt, brace hard, hold throughout lift, exhale at lockout or upon floor return.",
+      "movementControlTips": null,
+      "householdSubstitute": null,
+      "stepByStep": [
+        "Stand with mid-foot directly underneath the bar (bar 1 inch from shins), feet hip-width apart.",
+        "Hinge at the hips and grip the bar just outside knees with double overhand or mixed grip.",
+        "Pull chest up, drop hips slightly, and engage lats by thinking about 'bending the bar' across your shins.",
+        "Take slack out of the barbell until you hear the click against the plate rings.",
+        "Drive the floor away by pushing through mid-foot and extending hips and knees in unison.",
+        "Lock out standing tall by squeezing glutes; avoid hyperextending back at the top.",
+        "Hinge hips back to lower bar under control to the floor."
+      ],
+      "stepByStepExecution": [
+        "Stand with mid-foot directly underneath the bar (bar 1 inch from shins), feet hip-width apart.",
+        "Hinge at the hips and grip the bar just outside knees with double overhand or mixed grip.",
+        "Pull chest up, drop hips slightly, and engage lats by thinking about 'bending the bar' across your shins.",
+        "Take slack out of the barbell until you hear the click against the plate rings.",
+        "Drive the floor away by pushing through mid-foot and extending hips and knees in unison.",
+        "Lock out standing tall by squeezing glutes; avoid hyperextending back at the top.",
+        "Hinge hips back to lower bar under control to the floor."
+      ],
+      "commonMistakes": [
+        "Rounding lumbar spine ('fishing pole' deadlift).",
+        "Jerking the barbell off the floor before building pre-tension.",
+        "Hyperextending spine backwards at lockout."
+      ],
+      "safetyTips": [
+        "Reset after every repetition from a dead stop.",
+        "Wear flat-soled shoes or deadlift in socks."
+      ],
+      "alternatives": [
+        "Trap Bar Deadlift",
+        "Romanian Deadlift",
+        "Kettlebell Swing"
+      ],
+      "variations": {
+        "easier": [],
+        "harder": [],
+        "alternatives": [
+          "Trap Bar Deadlift",
+          "Romanian Deadlift",
+          "Kettlebell Swing"
+        ]
+      }
+    },
+    {
+      "id": "gym-dumbbell-bicep-curl",
+      "name": "Incline Dumbbell Bicep Curl",
+      "category": "gym",
+      "muscleGroup": "Biceps",
+      "muscleGroupStd": "Arms",
+      "targetMuscles": [
+        "Biceps Brachii (Long Head & Short Head)"
+      ],
+      "secondaryMuscles": [
+        "Brachialis",
+        "Brachioradialis"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Biceps Brachii (Long Head & Short Head)"
+        ],
+        "secondary": [
+          "Brachialis",
+          "Brachioradialis"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Dumbbells & Incline Bench",
+      "equipmentStd": "Dumbbells",
+      "difficulty": "Beginner",
+      "recommendedSets": 3,
+      "recommendedReps": "10-14",
+      "repsMin": 10,
+      "repsMax": 14,
+      "repUnit": "reps",
+      "perSide": false,
+      "defaultWeightKg": 12,
+      "breathCycleSeconds": null,
+      "whatItIs": "An isolated bicep flexion movement seated on an incline bench (45-60 degrees) that puts the long head of the bicep into a deep passive stretch.",
+      "whyItIsUseful": "Maximizes stretch-mediated hypertrophy for upper arm peak and thickness.",
+      "benefits": "Maximizes stretch-mediated hypertrophy for upper arm peak and thickness.",
+      "startingPosition": null,
+      "correctPosture": "Keep elbows pinned slightly behind torso plane; avoid swinging elbows forward to engage front delts.",
+      "breathingInstructions": "Exhale as you curl upward; inhale as you slowly lower weights.",
+      "movementControlTips": null,
+      "householdSubstitute": null,
+      "stepByStep": [
+        "Set bench to approximately 45-60 degrees. Sit back with head and back supported.",
+        "Hold dumbbells hanging straight down with palms facing each other (neutral).",
+        "As you curl upward, supinate wrists so palms face shoulders at the peak.",
+        "Squeeze biceps hard for 1 second at top contraction.",
+        "Slowly lower dumbbells back down over 3 seconds to full arm extension."
+      ],
+      "stepByStepExecution": [
+        "Set bench to approximately 45-60 degrees. Sit back with head and back supported.",
+        "Hold dumbbells hanging straight down with palms facing each other (neutral).",
+        "As you curl upward, supinate wrists so palms face shoulders at the peak.",
+        "Squeeze biceps hard for 1 second at top contraction.",
+        "Slowly lower dumbbells back down over 3 seconds to full arm extension."
+      ],
+      "commonMistakes": [
+        "Swinging elbows forward to cheat with anterior shoulders.",
+        "Cutting range of motion short at the bottom stretch."
+      ],
+      "safetyTips": [
+        "Do not use excessive weight that forces shoulder jerking.",
+        "Warm up elbow tendons prior to heavy curling."
+      ],
+      "alternatives": [
+        "Standing Barbell Curl",
+        "Cable Rope Hammer Curl",
+        "Concentration Curl"
+      ],
+      "variations": {
+        "easier": [],
+        "harder": [],
+        "alternatives": [
+          "Standing Barbell Curl",
+          "Cable Rope Hammer Curl",
+          "Concentration Curl"
+        ]
+      }
+    },
+    {
+      "id": "gym-cable-tricep-pushdown",
+      "name": "Cable Rope Tricep Pushdown",
+      "category": "gym",
+      "muscleGroup": "Triceps",
+      "muscleGroupStd": "Arms",
+      "targetMuscles": [
+        "Triceps Brachii (Lateral & Medial Heads)"
+      ],
+      "secondaryMuscles": [
+        "Anconeus"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Triceps Brachii (Lateral & Medial Heads)"
+        ],
+        "secondary": [
+          "Anconeus"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Cable Machine & Rope Attachment",
+      "equipmentStd": "Cable Machine",
+      "difficulty": "Beginner",
+      "recommendedSets": 3,
+      "recommendedReps": "12-15",
+      "repsMin": 12,
+      "repsMax": 15,
+      "repUnit": "reps",
+      "perSide": false,
+      "defaultWeightKg": 25,
+      "breathCycleSeconds": null,
+      "whatItIs": "An isolated elbow extension movement utilizing high cable pulley resistance and a rope attachment for natural wrist flare.",
+      "whyItIsUseful": "Delivers continuous tension on triceps through full contraction without elbow joint shearing stress.",
+      "benefits": "Delivers continuous tension on triceps through full contraction without elbow joint shearing stress.",
+      "startingPosition": null,
+      "correctPosture": "Upper arms stay stationary like hinges; shoulders remain pulled down and back.",
+      "breathingInstructions": "Exhale pushing down; inhale returning up.",
+      "movementControlTips": null,
+      "householdSubstitute": null,
+      "stepByStep": [
+        "Attach dual rope to high cable pulley. Stand with athletic stance, slight hinge at hips.",
+        "Grasp rope ends, elbows tucked snugly by ribcage sides.",
+        "Push rope down by extending elbows, spreading rope ends apart at bottom lockout.",
+        "Lock elbows and contract triceps forcefully for 1 count.",
+        "Allow elbows to bend smoothly back to roughly 90 degrees under tension."
+      ],
+      "stepByStepExecution": [
+        "Attach dual rope to high cable pulley. Stand with athletic stance, slight hinge at hips.",
+        "Grasp rope ends, elbows tucked snugly by ribcage sides.",
+        "Push rope down by extending elbows, spreading rope ends apart at bottom lockout.",
+        "Lock elbows and contract triceps forcefully for 1 count.",
+        "Allow elbows to bend smoothly back to roughly 90 degrees under tension."
+      ],
+      "commonMistakes": [
+        "Letting elbows flare forward and back, turning it into a chest press.",
+        "Leaning over bar and using bodyweight to shove."
+      ],
+      "safetyTips": [
+        "Keep wrists rigid in alignment with forearms.",
+        "Choose a weight you can control without hunching shoulders."
+      ],
+      "alternatives": [
+        "Skull Crushers",
+        "Overhead Cable Extension",
+        "Dips"
+      ],
+      "variations": {
+        "easier": [],
+        "harder": [],
+        "alternatives": [
+          "Skull Crushers",
+          "Overhead Cable Extension",
+          "Dips"
+        ]
+      }
+    },
+    {
+      "id": "gym-cable-seated-row",
+      "name": "Seated Cable Row",
+      "category": "gym",
+      "muscleGroup": "Back",
+      "muscleGroupStd": "Back",
+      "targetMuscles": [
+        "Rhomboids",
+        "Middle Trapezius",
+        "Latissimus Dorsi"
+      ],
+      "secondaryMuscles": [
+        "Posterior Deltoids",
+        "Biceps Brachii",
+        "Erector Spinae"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Rhomboids",
+          "Middle Trapezius",
+          "Latissimus Dorsi"
+        ],
+        "secondary": [
+          "Posterior Deltoids",
+          "Biceps Brachii",
+          "Erector Spinae"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Cable Seated Row Station & V-Grip Handle",
+      "equipmentStd": "Cable Machine",
+      "difficulty": "Beginner",
+      "recommendedSets": 4,
+      "recommendedReps": "10-12",
+      "repsMin": 10,
+      "repsMax": 12,
+      "repUnit": "reps",
+      "perSide": false,
+      "defaultWeightKg": 50,
+      "breathCycleSeconds": null,
+      "whatItIs": "A horizontal pulling movement seated with feet braced against foot plates, rowing a cable handle toward the navel.",
+      "whyItIsUseful": "Counters forward-head rounded posture from desk sitting and thickens the mid-back and rhomboid structure.",
+      "benefits": "Counters forward-head rounded posture from desk sitting and thickens the mid-back and rhomboid structure.",
+      "startingPosition": null,
+      "correctPosture": "Maintain natural spinal curvature. Avoid rocking backward and forward by more than 10 degrees.",
+      "breathingInstructions": "Inhale reaching forward; exhale pulling into abdomen.",
+      "movementControlTips": null,
+      "householdSubstitute": null,
+      "stepByStep": [
+        "Sit on machine bench, place feet on footrests with knees slightly bent.",
+        "Reach forward to grab V-handle with back flat; push back slightly to lift stack.",
+        "Retract shoulders and pull handle smoothly into lower abdomen / belly button.",
+        "Squeeze shoulder blades tightly together at full contraction.",
+        "Extend arms forward with control, allowing scapulae to protract slightly for a deep stretch."
+      ],
+      "stepByStepExecution": [
+        "Sit on machine bench, place feet on footrests with knees slightly bent.",
+        "Reach forward to grab V-handle with back flat; push back slightly to lift stack.",
+        "Retract shoulders and pull handle smoothly into lower abdomen / belly button.",
+        "Squeeze shoulder blades tightly together at full contraction.",
+        "Extend arms forward with control, allowing scapulae to protract slightly for a deep stretch."
+      ],
+      "commonMistakes": [
+        "Violent rocking back to gain momentum.",
+        "Shrugging shoulders into ears at contraction point."
+      ],
+      "safetyTips": [
+        "Never round your lower back while reaching for the handle.",
+        "Keep knees softly bent throughout to protect hamstrings."
+      ],
+      "alternatives": [
+        "Barbell Bent-Over Row",
+        "Single-Arm Dumbbell Row",
+        "Inverted Row"
+      ],
+      "variations": {
+        "easier": [],
+        "harder": [],
+        "alternatives": [
+          "Barbell Bent-Over Row",
+          "Single-Arm Dumbbell Row",
+          "Inverted Row"
+        ]
+      }
+    },
+    {
+      "id": "gym-dumbbell-lateral-raise",
+      "name": "Dumbbell Lateral Raise",
+      "category": "gym",
+      "muscleGroup": "Shoulders",
+      "muscleGroupStd": "Shoulders",
+      "targetMuscles": [
+        "Lateral Deltoid"
+      ],
+      "secondaryMuscles": [
+        "Anterior Deltoid",
+        "Supraspinatus",
+        "Trapezius"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Lateral Deltoid"
+        ],
+        "secondary": [
+          "Anterior Deltoid",
+          "Supraspinatus",
+          "Trapezius"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Dumbbells",
+      "equipmentStd": "Dumbbells",
+      "difficulty": "Intermediate",
+      "recommendedSets": 4,
+      "recommendedReps": "12-15",
+      "repsMin": 12,
+      "repsMax": 15,
+      "repUnit": "reps",
+      "perSide": false,
+      "defaultWeightKg": 8,
+      "breathCycleSeconds": null,
+      "whatItIs": "An isolated shoulder abduction movement lifting dumbbells laterally outward in the scapular plane to build shoulder capped width.",
+      "whyItIsUseful": "The primary exercise responsible for widening the upper torso silhouette and creating 3D shoulder shape.",
+      "benefits": "The primary exercise responsible for widening the upper torso silhouette and creating 3D shoulder shape.",
+      "startingPosition": null,
+      "correctPosture": "Do not shrug traps. Think about 'pouring water' or pushing the dumbbells outward toward the walls rather than lifting up.",
+      "breathingInstructions": "Exhale as weights rise outward; inhale as you lower them.",
+      "movementControlTips": null,
+      "householdSubstitute": null,
+      "stepByStep": [
+        "Stand tall holding dumbbells at sides with a slight forward torso lean (5-10 degrees).",
+        "Bend elbows very slightly (approx 15 degrees) and lock them in that fixed angle.",
+        "Raise dumbbells out to sides leading with your elbows, staying slightly in front of body line (scapular plane).",
+        "Lift until arms reach parallel with floor (shoulder height).",
+        "Pause for a brief fraction of a second, then lower slowly over 2-3 seconds."
+      ],
+      "stepByStepExecution": [
+        "Stand tall holding dumbbells at sides with a slight forward torso lean (5-10 degrees).",
+        "Bend elbows very slightly (approx 15 degrees) and lock them in that fixed angle.",
+        "Raise dumbbells out to sides leading with your elbows, staying slightly in front of body line (scapular plane).",
+        "Lift until arms reach parallel with floor (shoulder height).",
+        "Pause for a brief fraction of a second, then lower slowly over 2-3 seconds."
+      ],
+      "commonMistakes": [
+        "Swinging torso and bouncing knees to heave heavy dumbbells.",
+        "Lifting weights well above shoulder height using upper traps.",
+        "Rotating hands so thumbs point straight up (shoving load to front delt)."
+      ],
+      "safetyTips": [
+        "Use lighter weights with strict tempo; lateral delts are small precision muscles.",
+        "Avoid clicking sensation by keeping elbows slightly forward of torso."
+      ],
+      "alternatives": [
+        "Cable Lateral Raise",
+        "Machine Lateral Raise",
+        "Resistance Band Lateral Raise"
+      ],
+      "variations": {
+        "easier": [],
+        "harder": [],
+        "alternatives": [
+          "Cable Lateral Raise",
+          "Machine Lateral Raise",
+          "Resistance Band Lateral Raise"
+        ]
+      }
+    },
+    {
+      "id": "gym-romanian-deadlift",
+      "name": "Barbell Romanian Deadlift (RDL)",
+      "category": "gym",
+      "muscleGroup": "Hamstrings",
+      "muscleGroupStd": "Legs",
+      "targetMuscles": [
+        "Hamstrings (Biceps Femoris, Semitendinosus)",
+        "Gluteus Maximus"
+      ],
+      "secondaryMuscles": [
+        "Erector Spinae",
+        "Adductor Magnus",
+        "Lats"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Hamstrings (Biceps Femoris, Semitendinosus)",
+          "Gluteus Maximus"
+        ],
+        "secondary": [
+          "Erector Spinae",
+          "Adductor Magnus",
+          "Lats"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Barbell & Plates",
+      "equipmentStd": "Barbell",
+      "difficulty": "Intermediate",
+      "recommendedSets": 4,
+      "recommendedReps": "8-12",
+      "repsMin": 8,
+      "repsMax": 12,
+      "repUnit": "reps",
+      "perSide": false,
+      "defaultWeightKg": 70,
+      "breathCycleSeconds": null,
+      "whatItIs": "A pure hip hinge exercise starting from a standing position, lowering the barbell along thighs while sending hips far backward.",
+      "whyItIsUseful": "Unrivaled hamstring stretch tension and glute loading for athletic sprinting speed and knee joint deceleration stability.",
+      "benefits": "Unrivaled hamstring stretch tension and glute loading for athletic sprinting speed and knee joint deceleration stability.",
+      "startingPosition": null,
+      "correctPosture": "Bar stays in contact with shins/thighs. Neck stays neutral in line with torso, not looking up at mirror.",
+      "breathingInstructions": "Inhale at top, brace core, hold hinge descent, exhale driving hips back forward.",
+      "movementControlTips": null,
+      "householdSubstitute": null,
+      "stepByStep": [
+        "Stand tall holding barbell at hip level with double overhand shoulder-width grip.",
+        "Unlock knees slightly (soft bend) and keep that knee angle completely locked.",
+        "Push hips backward toward wall behind you while sliding bar down along thighs.",
+        "Keep chest open and spine perfectly flat; descend until you feel a deep hamstring stretch (typically mid-shin).",
+        "Drive hips forward powerfully, squeezing glutes hard to return to standing position."
+      ],
+      "stepByStepExecution": [
+        "Stand tall holding barbell at hip level with double overhand shoulder-width grip.",
+        "Unlock knees slightly (soft bend) and keep that knee angle completely locked.",
+        "Push hips backward toward wall behind you while sliding bar down along thighs.",
+        "Keep chest open and spine perfectly flat; descend until you feel a deep hamstring stretch (typically mid-shin).",
+        "Drive hips forward powerfully, squeezing glutes hard to return to standing position."
+      ],
+      "commonMistakes": [
+        "Squatting down (bending knees too much) instead of pushing hips backward.",
+        "Allowing bar to drift away from body, stressing lower back.",
+        "Rounding thoracic spine."
+      ],
+      "safetyTips": [
+        "Stop descent as soon as hips stop moving backward.",
+        "Use lifting straps if grip fails before hamstrings tire."
+      ],
+      "alternatives": [
+        "Dumbbell RDL",
+        "Single-Leg Romanian Deadlift",
+        "Good Mornings"
+      ],
+      "variations": {
+        "easier": [],
+        "harder": [],
+        "alternatives": [
+          "Dumbbell RDL",
+          "Single-Leg Romanian Deadlift",
+          "Good Mornings"
+        ]
+      }
+    },
+    {
+      "id": "gym-hanging-leg-raise",
+      "name": "Hanging Leg / Knee Raise",
+      "category": "gym",
+      "muscleGroup": "Core",
+      "muscleGroupStd": "Core",
+      "targetMuscles": [
+        "Rectus Abdominis (Lower Region)",
+        "Iliopsoas"
+      ],
+      "secondaryMuscles": [
+        "Obliques",
+        "Forearms (Grip)"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Rectus Abdominis (Lower Region)",
+          "Iliopsoas"
+        ],
+        "secondary": [
+          "Obliques",
+          "Forearms (Grip)"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Pull-Up Bar or Captain's Chair",
+      "equipmentStd": "Pull-Up Bar",
+      "difficulty": "Intermediate",
+      "recommendedSets": 3,
+      "recommendedReps": "12-15",
+      "repsMin": 12,
+      "repsMax": 15,
+      "repUnit": "reps",
+      "perSide": false,
+      "defaultWeightKg": 0,
+      "breathCycleSeconds": null,
+      "whatItIs": "A hanging abdominal flexion movement curling knees or straight legs upward toward chest while hanging from an overhead bar.",
+      "whyItIsUseful": "Demands powerful lower core compression and posterior pelvic tilt while improving dead-hang decompression and grip strength.",
+      "benefits": "Demands powerful lower core compression and posterior pelvic tilt while improving dead-hang decompression and grip strength.",
+      "startingPosition": null,
+      "correctPosture": "Focus on curling pelvis up to belly button rather than just swinging hip flexors.",
+      "breathingInstructions": "Exhale sharply as knees rise; inhale smoothly as legs lower.",
+      "movementControlTips": null,
+      "householdSubstitute": null,
+      "stepByStep": [
+        "Hang from pull-up bar with overhand grip, shoulders engaged down away from ears.",
+        "Posteriorly tilt pelvis by tucking tailbone underneath.",
+        "Raise knees (or straight legs for advanced) toward chest by curling your pelvis upward.",
+        "Pause for 1 second at maximum abdominal contraction.",
+        "Lower legs slowly back down without letting body swing into momentum."
+      ],
+      "stepByStepExecution": [
+        "Hang from pull-up bar with overhand grip, shoulders engaged down away from ears.",
+        "Posteriorly tilt pelvis by tucking tailbone underneath.",
+        "Raise knees (or straight legs for advanced) toward chest by curling your pelvis upward.",
+        "Pause for 1 second at maximum abdominal contraction.",
+        "Lower legs slowly back down without letting body swing into momentum."
+      ],
+      "commonMistakes": [
+        "Swinging violently back and forth like a pendulum.",
+        "Only flexing hip flexors without actually flexing spine/pelvis."
+      ],
+      "safetyTips": [
+        "Keep shoulders active to prevent shoulder joint traction pinch.",
+        "Begin with bent knees before attempting straight leg raises."
+      ],
+      "alternatives": [
+        "Captain's Chair Knee Raise",
+        "Reverse Crunch on Bench",
+        "Ab Wheel Rollout"
+      ],
+      "variations": {
+        "easier": [],
+        "harder": [],
+        "alternatives": [
+          "Captain's Chair Knee Raise",
+          "Reverse Crunch on Bench",
+          "Ab Wheel Rollout"
+        ]
+      }
+    },
+    {
+      "id": "home-push-ups",
+      "name": "Classic Push-Up",
+      "category": "home",
+      "muscleGroup": "Chest",
+      "muscleGroupStd": "Chest",
+      "targetMuscles": [
+        "Pectoralis Major",
+        "Anterior Deltoids"
+      ],
+      "secondaryMuscles": [
+        "Triceps Brachii",
+        "Transverse Abdominis",
+        "Serratus Anterior"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Pectoralis Major",
+          "Anterior Deltoids"
+        ],
+        "secondary": [
+          "Triceps Brachii",
+          "Transverse Abdominis",
+          "Serratus Anterior"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Bodyweight (Floor Mat)",
+      "equipmentStd": "Bodyweight",
+      "difficulty": "Beginner",
+      "recommendedSets": 3,
+      "recommendedReps": "12-20",
+      "repsMin": 12,
+      "repsMax": 20,
+      "repUnit": "reps",
+      "perSide": false,
+      "defaultWeightKg": null,
+      "breathCycleSeconds": null,
+      "whatItIs": "The premier closed-kinetic-chain upper-body pushing exercise mobilizing entire bodyweight against gravity while holding a strict plank.",
+      "whyItIsUseful": "Develops functional upper-body push strength, anterior shoulder durability, and dynamic core stabilization without any equipment.",
+      "benefits": "Develops functional upper-body push strength, anterior shoulder durability, and dynamic core stabilization without any equipment.",
+      "startingPosition": null,
+      "correctPosture": "Maintain rigid plank line; do not let hips dip or pike up toward the ceiling. Keep neck neutral.",
+      "breathingInstructions": "Inhale during the controlled descent; exhale forcefully as you push away from the ground.",
+      "movementControlTips": null,
+      "householdSubstitute": "None needed; for decline variation, elevate feet on a sturdy chair or couch.",
+      "stepByStep": [
+        "Place hands slightly wider than shoulder-width on floor, fingers pointed forward or slightly outward.",
+        "Step feet back so body forms a straight rigid line from heels to head.",
+        "Squeeze glutes and draw navel to spine to prevent lower back sagging.",
+        "Lower chest smoothly by bending elbows at roughly 45 degrees until chest hovers 1 inch above floor.",
+        "Drive hands hard into the floor, pressing back up until arms are fully extended."
+      ],
+      "stepByStepExecution": [
+        "Place hands slightly wider than shoulder-width on floor, fingers pointed forward or slightly outward.",
+        "Step feet back so body forms a straight rigid line from heels to head.",
+        "Squeeze glutes and draw navel to spine to prevent lower back sagging.",
+        "Lower chest smoothly by bending elbows at roughly 45 degrees until chest hovers 1 inch above floor.",
+        "Drive hands hard into the floor, pressing back up until arms are fully extended."
+      ],
+      "commonMistakes": [
+        "Flaring elbows straight out to 90 degrees ('T-shape'), which pinches the rotator cuff.",
+        "Sagging hips and overarching the lower back.",
+        "Bobbing the head up and down instead of lowering the chest."
+      ],
+      "safetyTips": [
+        "Keep wrists stacked or use push-up grips/dumbbells if experiencing wrist compression discomfort."
+      ],
+      "alternatives": [],
+      "variations": {
+        "easier": [
+          "Incline Push-Up (hands on wall or sturdy desk)",
+          "Knee Push-Up"
+        ],
+        "harder": [
+          "Decline Push-Up (feet elevated on sofa/chair)",
+          "Archer Push-Up",
+          "Diamond Push-Up"
+        ],
+        "alternatives": []
+      }
+    },
+    {
+      "id": "home-bodyweight-squat",
+      "name": "Bodyweight Air Squat",
+      "category": "home",
+      "muscleGroup": "Quadriceps",
+      "muscleGroupStd": "Legs",
+      "targetMuscles": [
+        "Quadriceps",
+        "Gluteus Maximus"
+      ],
+      "secondaryMuscles": [
+        "Hamstrings",
+        "Calves",
+        "Core"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Quadriceps",
+          "Gluteus Maximus"
+        ],
+        "secondary": [
+          "Hamstrings",
+          "Calves",
+          "Core"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Bodyweight",
+      "equipmentStd": "Bodyweight",
+      "difficulty": "Beginner",
+      "recommendedSets": 4,
+      "recommendedReps": "15-25",
+      "repsMin": 15,
+      "repsMax": 25,
+      "repUnit": "reps",
+      "perSide": false,
+      "defaultWeightKg": null,
+      "breathCycleSeconds": null,
+      "whatItIs": "The fundamental lower-body movement pattern training natural hip and knee flexion with full range of motion.",
+      "whyItIsUseful": "Builds functional leg endurance, maintains hip and knee joint cartilage health, burns calories, and improves balance.",
+      "benefits": "Builds functional leg endurance, maintains hip and knee joint cartilage health, burns calories, and improves balance.",
+      "startingPosition": null,
+      "correctPosture": "Knees track in line with 2nd and 3rd toes; heel must remain planted firmly on the floor throughout.",
+      "breathingInstructions": "Inhale descending down; exhale driving back to upright stance.",
+      "movementControlTips": null,
+      "householdSubstitute": "Load books into a backpack and wear it on front or back to add 5-15kg of resistance.",
+      "stepByStep": [
+        "Stand with feet shoulder-width apart, toes turned outward 15-20 degrees.",
+        "Reach arms straight forward or clasp hands at chest for counterbalance.",
+        "Initiate by sitting hips back and bending knees simultaneously.",
+        "Descend smoothly until thighs are at least parallel to floor while chest stays lifted.",
+        "Drive through whole foot to stand back up, squeezing glutes at the peak."
+      ],
+      "stepByStepExecution": [
+        "Stand with feet shoulder-width apart, toes turned outward 15-20 degrees.",
+        "Reach arms straight forward or clasp hands at chest for counterbalance.",
+        "Initiate by sitting hips back and bending knees simultaneously.",
+        "Descend smoothly until thighs are at least parallel to floor while chest stays lifted.",
+        "Drive through whole foot to stand back up, squeezing glutes at the peak."
+      ],
+      "commonMistakes": [
+        "Heels lifting off the ground.",
+        "Knees caving inward (valgus collapse).",
+        "Hunching chest forward excessively."
+      ],
+      "safetyTips": [
+        "If balance is challenging, squat to a dining chair or hold onto a doorframe."
+      ],
+      "alternatives": [],
+      "variations": {
+        "easier": [
+          "Box/Chair Squat (sit down and stand up)",
+          "Doorframe Assisted Squat"
+        ],
+        "harder": [
+          "Jump Squat",
+          "Pistol Squat (Single-leg)",
+          "Backpack-Weighted Squat"
+        ],
+        "alternatives": []
+      }
+    },
+    {
+      "id": "home-plank",
+      "name": "Forearm Core Plank",
+      "category": "home",
+      "muscleGroup": "Core",
+      "muscleGroupStd": "Core",
+      "targetMuscles": [
+        "Transverse Abdominis",
+        "Rectus Abdominis"
+      ],
+      "secondaryMuscles": [
+        "Obliques",
+        "Gluteals",
+        "Quadriceps",
+        "Deltoids"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Transverse Abdominis",
+          "Rectus Abdominis"
+        ],
+        "secondary": [
+          "Obliques",
+          "Gluteals",
+          "Quadriceps",
+          "Deltoids"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Bodyweight (Yoga Mat)",
+      "equipmentStd": "Bodyweight",
+      "difficulty": "Beginner",
+      "recommendedSets": 3,
+      "recommendedReps": "45-60s hold",
+      "repsMin": 45,
+      "repsMax": 60,
+      "repUnit": "seconds",
+      "perSide": false,
+      "defaultWeightKg": null,
+      "breathCycleSeconds": null,
+      "whatItIs": "An isometric anti-extension core exercise holding a horizontal prone bridge on forearms and toes.",
+      "whyItIsUseful": "Shields the lumbar spine against injury, creates a tight abdominal corset, and trains endurance bracing.",
+      "benefits": "Shields the lumbar spine against injury, creates a tight abdominal corset, and trains endurance bracing.",
+      "startingPosition": null,
+      "correctPosture": "Do not let lumbar spine sag; avoid piking hips upward like a mountain peak.",
+      "breathingInstructions": "Breathe steadily in through nose and out through mouth without releasing abdominal brace.",
+      "movementControlTips": null,
+      "householdSubstitute": "Yoga mat or soft towel folded under elbows on hard flooring.",
+      "stepByStep": [
+        "Lie face down, resting on forearms with elbows stacked directly beneath shoulders.",
+        "Tuck toes and raise hips until body forms a straight horizontal line.",
+        "Actively pull elbows towards toes and squeeze glutes to engage maximal intra-abdominal tension.",
+        "Keep head in line with spine, gazing at hands.",
+        "Hold rigid position while breathing calmly into diaphragm."
+      ],
+      "stepByStepExecution": [
+        "Lie face down, resting on forearms with elbows stacked directly beneath shoulders.",
+        "Tuck toes and raise hips until body forms a straight horizontal line.",
+        "Actively pull elbows towards toes and squeeze glutes to engage maximal intra-abdominal tension.",
+        "Keep head in line with spine, gazing at hands.",
+        "Hold rigid position while breathing calmly into diaphragm."
+      ],
+      "commonMistakes": [
+        "Holding breath and creating spikes in blood pressure.",
+        "Dropping pelvis and hanging on lower back vertebrae."
+      ],
+      "safetyTips": [
+        "If lower back aches, immediately drop knees to ground and rest."
+      ],
+      "alternatives": [],
+      "variations": {
+        "easier": [
+          "Knee Forearm Plank",
+          "Incline Plank with forearms on sofa"
+        ],
+        "harder": [
+          "Plank with Alternating Arm/Leg Reach",
+          "Saw Plank (rocking forward/back)",
+          "RKC Plank"
+        ],
+        "alternatives": []
+      }
+    },
+    {
+      "id": "home-walking-lunges",
+      "name": "Bodyweight Walking Lunges",
+      "category": "home",
+      "muscleGroup": "Quadriceps",
+      "muscleGroupStd": "Legs",
+      "targetMuscles": [
+        "Quadriceps",
+        "Gluteus Maximus"
+      ],
+      "secondaryMuscles": [
+        "Hamstrings",
+        "Calves",
+        "Core Stabilizers"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Quadriceps",
+          "Gluteus Maximus"
+        ],
+        "secondary": [
+          "Hamstrings",
+          "Calves",
+          "Core Stabilizers"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Bodyweight / Space",
+      "equipmentStd": "Bodyweight",
+      "difficulty": "Intermediate",
+      "recommendedSets": 3,
+      "recommendedReps": "12 per leg",
+      "repsMin": 12,
+      "repsMax": 12,
+      "repUnit": "reps",
+      "perSide": true,
+      "defaultWeightKg": null,
+      "breathCycleSeconds": null,
+      "whatItIs": "A dynamic unilateral locomotion exercise stepping forward and dropping hips into alternating split squats.",
+      "whyItIsUseful": "Corrects unilateral leg strength imbalances, challenges hip stabilizers, and enhances athletic coordination.",
+      "benefits": "Corrects unilateral leg strength imbalances, challenges hip stabilizers, and enhances athletic coordination.",
+      "startingPosition": null,
+      "correctPosture": "Keep torso upright; front knee stays aligned with toes and does not shift violently inward.",
+      "breathingInstructions": "Inhale stepping down into lunge; exhale driving forward into next step.",
+      "movementControlTips": null,
+      "householdSubstitute": "Hold two 1.5L or 2L filled water bottles in hands to add 3-4kg of progressive load.",
+      "stepByStep": [
+        "Stand tall with feet hip-width apart and hands on hips or chest.",
+        "Take a large controlled step forward with your right leg.",
+        "Lower hips until front thigh is parallel to floor and back knee hovers 1 inch above ground.",
+        "Push through the front heel and step the rear foot through into the next forward step.",
+        "Continue alternating legs continuously."
+      ],
+      "stepByStepExecution": [
+        "Stand tall with feet hip-width apart and hands on hips or chest.",
+        "Take a large controlled step forward with your right leg.",
+        "Lower hips until front thigh is parallel to floor and back knee hovers 1 inch above ground.",
+        "Push through the front heel and step the rear foot through into the next forward step.",
+        "Continue alternating legs continuously."
+      ],
+      "commonMistakes": [
+        "Banging back kneecap hard onto hardwood floor.",
+        "Taking too short a step, causing front heel to peel off ground."
+      ],
+      "safetyTips": [
+        "Use a yoga mat or carpet runner to cushion back knee descent."
+      ],
+      "alternatives": [],
+      "variations": {
+        "easier": [
+          "Reverse Static Lunges (stepping backward reduces knee shear)",
+          "Supported Lunge holding chair"
+        ],
+        "harder": [
+          "Jumping Split Lunges",
+          "Backpack Lunges",
+          "Bulgarian Split Squats on couch"
+        ],
+        "alternatives": []
+      }
+    },
+    {
+      "id": "home-glute-bridge",
+      "name": "Floor Glute Bridge",
+      "category": "home",
+      "muscleGroup": "Glutes",
+      "muscleGroupStd": "Glutes",
+      "targetMuscles": [
+        "Gluteus Maximus",
+        "Hamstrings"
+      ],
+      "secondaryMuscles": [
+        "Erector Spinae",
+        "Transverse Abdominis"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Gluteus Maximus",
+          "Hamstrings"
+        ],
+        "secondary": [
+          "Erector Spinae",
+          "Transverse Abdominis"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Bodyweight (Mat)",
+      "equipmentStd": "Bodyweight",
+      "difficulty": "Beginner",
+      "recommendedSets": 3,
+      "recommendedReps": "15-20",
+      "repsMin": 15,
+      "repsMax": 20,
+      "repUnit": "reps",
+      "perSide": false,
+      "defaultWeightKg": null,
+      "breathCycleSeconds": null,
+      "whatItIs": "A supine hip extension exercise pushing through heels to lift hips until thighs and torso align.",
+      "whyItIsUseful": "Awakens dormant glute muscles from sitting all day, eases lower back compression, and tightens posterior chain.",
+      "benefits": "Awakens dormant glute muscles from sitting all day, eases lower back compression, and tightens posterior chain.",
+      "startingPosition": null,
+      "correctPosture": "Do not overarch lower back at the top; drive purely from glute contraction, ribs knit down.",
+      "breathingInstructions": "Exhale pushing hips up into bridge; inhale lowering back down.",
+      "movementControlTips": null,
+      "householdSubstitute": "Place a looped resistance band or folded towel around knees to force abductor tension.",
+      "stepByStep": [
+        "Lie supine on back, knees bent at 90 degrees with feet flat on floor hip-width apart.",
+        "Arms rest flat alongside body, palms pressing downward.",
+        "Drive through heels and squeeze glutes to elevate hips toward ceiling.",
+        "Pause for 2 seconds at peak contraction, forming a straight line from knees to shoulders.",
+        "Lower hips slowly back to floor under control."
+      ],
+      "stepByStepExecution": [
+        "Lie supine on back, knees bent at 90 degrees with feet flat on floor hip-width apart.",
+        "Arms rest flat alongside body, palms pressing downward.",
+        "Drive through heels and squeeze glutes to elevate hips toward ceiling.",
+        "Pause for 2 seconds at peak contraction, forming a straight line from knees to shoulders.",
+        "Lower hips slowly back to floor under control."
+      ],
+      "commonMistakes": [
+        "Hyperextending lumbar spine instead of extending hips.",
+        "Pushing with toes rather than heels."
+      ],
+      "safetyTips": [
+        "Keep neck relaxed on floor; do not crank chin to chest."
+      ],
+      "alternatives": [],
+      "variations": {
+        "easier": [
+          "Partial Range Glute Bridge"
+        ],
+        "harder": [
+          "Single-Leg Glute Bridge",
+          "Elevated Feet Glute Bridge on couch edge",
+          "Banded Glute Bridge"
+        ],
+        "alternatives": []
+      }
+    },
+    {
+      "id": "home-mountain-climbers",
+      "name": "Mountain Climbers",
+      "category": "home",
+      "muscleGroup": "Core",
+      "muscleGroupStd": "Core",
+      "targetMuscles": [
+        "Rectus Abdominis",
+        "Hip Flexors"
+      ],
+      "secondaryMuscles": [
+        "Shoulders",
+        "Quadriceps",
+        "Cardiovascular System"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Rectus Abdominis",
+          "Hip Flexors"
+        ],
+        "secondary": [
+          "Shoulders",
+          "Quadriceps",
+          "Cardiovascular System"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Bodyweight",
+      "equipmentStd": "Bodyweight",
+      "difficulty": "Intermediate",
+      "recommendedSets": 3,
+      "recommendedReps": "30-45s",
+      "repsMin": 30,
+      "repsMax": 45,
+      "repUnit": "seconds",
+      "perSide": false,
+      "defaultWeightKg": null,
+      "breathCycleSeconds": null,
+      "whatItIs": "A rapid cardiovascular core movement running knees alternately into chest from a tall push-up plank position.",
+      "whyItIsUseful": "High metabolic conditioning and rapid caloric burn while training dynamic anterior abdominal stability.",
+      "benefits": "High metabolic conditioning and rapid caloric burn while training dynamic anterior abdominal stability.",
+      "startingPosition": null,
+      "correctPosture": "Shoulders stay directly above wrists. Avoid piking hips up toward the ceiling as you speed up.",
+      "breathingInstructions": "Maintain a steady, rhythmic cadence of breathing matching your knee cycles.",
+      "movementControlTips": null,
+      "householdSubstitute": "Place socks on a slippery wooden or tile floor to glide feet smoothly without lifting.",
+      "stepByStep": [
+        "Start in a tall push-up plank position with hands directly under shoulders.",
+        "Drive right knee rapidly toward chest without letting hips bounce up.",
+        "Step right foot back while simultaneously driving left knee forward.",
+        "Maintain a quick, rhythmically alternating sprint tempo."
+      ],
+      "stepByStepExecution": [
+        "Start in a tall push-up plank position with hands directly under shoulders.",
+        "Drive right knee rapidly toward chest without letting hips bounce up.",
+        "Step right foot back while simultaneously driving left knee forward.",
+        "Maintain a quick, rhythmically alternating sprint tempo."
+      ],
+      "commonMistakes": [
+        "Bouncing buttocks high in the air.",
+        "Letting shoulders shift far back behind the hands."
+      ],
+      "safetyTips": [
+        "Ensure sneakers have good grip on floor to avoid slipping."
+      ],
+      "alternatives": [],
+      "variations": {
+        "easier": [
+          "Slow Tempo Stepping Mountain Climber",
+          "Hands Elevated on Sturdy Coffee Table"
+        ],
+        "harder": [
+          "Cross-Body Mountain Climbers (knee to opposite elbow)",
+          "Slider Mountain Climbers"
+        ],
+        "alternatives": []
+      }
+    },
+    {
+      "id": "home-resistance-band-row",
+      "name": "Resistance Band Seated Row",
+      "category": "home",
+      "muscleGroup": "Back",
+      "muscleGroupStd": "Back",
+      "targetMuscles": [
+        "Latissimus Dorsi",
+        "Rhomboids",
+        "Middle Traps"
+      ],
+      "secondaryMuscles": [
+        "Biceps Brachii",
+        "Rear Delts"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Latissimus Dorsi",
+          "Rhomboids",
+          "Middle Traps"
+        ],
+        "secondary": [
+          "Biceps Brachii",
+          "Rear Delts"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Resistance Band",
+      "equipmentStd": "Resistance Band",
+      "difficulty": "Beginner",
+      "recommendedSets": 3,
+      "recommendedReps": "12-15",
+      "repsMin": 12,
+      "repsMax": 15,
+      "repUnit": "reps",
+      "perSide": false,
+      "defaultWeightKg": null,
+      "breathCycleSeconds": null,
+      "whatItIs": "A seated horizontal pull anchoring a resistance band around feet and rowing band handles toward ribs.",
+      "whyItIsUseful": "Directly mimics a gym cable row, building back thickness and fixing rounded shoulders in any living room.",
+      "benefits": "Directly mimics a gym cable row, building back thickness and fixing rounded shoulders in any living room.",
+      "startingPosition": null,
+      "correctPosture": "Sit tall on sit-bones with chest high; do not slouch or round lumbar spine.",
+      "breathingInstructions": "Exhale rowing bands back; inhale extending arms forward.",
+      "movementControlTips": null,
+      "householdSubstitute": "If no resistance band: perform Inverted Rows underneath a sturdy dining table.",
+      "stepByStep": [
+        "Sit tall on floor with legs extended forward, knees softly bent.",
+        "Loop the middle of a loop or tube band firmly around the soles of both feet.",
+        "Grasp band ends with palms facing each other, arms extended straight ahead.",
+        "Pull elbows straight back alongside ribs, pinching shoulder blades together tightly.",
+        "Hold for 1 count, then release slowly against the elastic resistance back to stretch."
+      ],
+      "stepByStepExecution": [
+        "Sit tall on floor with legs extended forward, knees softly bent.",
+        "Loop the middle of a loop or tube band firmly around the soles of both feet.",
+        "Grasp band ends with palms facing each other, arms extended straight ahead.",
+        "Pull elbows straight back alongside ribs, pinching shoulder blades together tightly.",
+        "Hold for 1 count, then release slowly against the elastic resistance back to stretch."
+      ],
+      "commonMistakes": [
+        "Shrugging shoulders up toward ears.",
+        "Letting the band snap arms forward quickly."
+      ],
+      "safetyTips": [
+        "Double check band is centered securely on shoes so it doesn't slip off."
+      ],
+      "alternatives": [],
+      "variations": {
+        "easier": [
+          "Single loop resistance or lighter tension band"
+        ],
+        "harder": [
+          "Choke up on band for higher tension",
+          "Single-Arm Row with torso rotation"
+        ],
+        "alternatives": []
+      }
+    },
+    {
+      "id": "home-chair-tricep-dips",
+      "name": "Sturdy Chair Tricep Dips",
+      "category": "home",
+      "muscleGroup": "Triceps",
+      "muscleGroupStd": "Arms",
+      "targetMuscles": [
+        "Triceps Brachii"
+      ],
+      "secondaryMuscles": [
+        "Anterior Deltoids",
+        "Pectoralis Major"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Triceps Brachii"
+        ],
+        "secondary": [
+          "Anterior Deltoids",
+          "Pectoralis Major"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Sturdy Chair / Bench / Sofa",
+      "equipmentStd": "Household Item",
+      "difficulty": "Intermediate",
+      "recommendedSets": 3,
+      "recommendedReps": "10-15",
+      "repsMin": 10,
+      "repsMax": 15,
+      "repUnit": "reps",
+      "perSide": false,
+      "defaultWeightKg": null,
+      "breathCycleSeconds": null,
+      "whatItIs": "A bodyweight dipping exercise placing hands on the edge of a sturdy chair or couch and lowering hips toward floor.",
+      "whyItIsUseful": "Tones and strengthens triceps through bodyweight leverage with zero specialized gym gear.",
+      "benefits": "Tones and strengthens triceps through bodyweight leverage with zero specialized gym gear.",
+      "startingPosition": null,
+      "correctPosture": "Keep back close to the chair edge throughout; do not let hips drift far forward.",
+      "breathingInstructions": "Inhale bending elbows downward; exhale pressing back up.",
+      "movementControlTips": null,
+      "householdSubstitute": "Use a dining chair braced against wall, living room couch, or low coffee table.",
+      "stepByStep": [
+        "Sit on edge of a stable chair; grip chair edge with hands right next to hips, fingers curling forward.",
+        "Slide glutes off edge with knees bent at 90 degrees and feet flat on floor.",
+        "Lower body by bending elbows straight back until elbows reach 90 degrees.",
+        "Press palms firmly into chair to return arms to full extension."
+      ],
+      "stepByStepExecution": [
+        "Sit on edge of a stable chair; grip chair edge with hands right next to hips, fingers curling forward.",
+        "Slide glutes off edge with knees bent at 90 degrees and feet flat on floor.",
+        "Lower body by bending elbows straight back until elbows reach 90 degrees.",
+        "Press palms firmly into chair to return arms to full extension."
+      ],
+      "commonMistakes": [
+        "Flaring elbows outward, causing internal shoulder impingement.",
+        "Drifting hips too far away from chair edge."
+      ],
+      "safetyTips": [
+        "Always push chair against a wall so it cannot tip or slide backwards."
+      ],
+      "alternatives": [],
+      "variations": {
+        "easier": [
+          "Knees bent at 90 degrees close to chair"
+        ],
+        "harder": [
+          "Legs extended straight out on heels",
+          "Feet elevated on a second chair"
+        ],
+        "alternatives": []
+      }
+    },
+    {
+      "id": "home-wall-sit",
+      "name": "Isometric Wall Sit",
+      "category": "home",
+      "muscleGroup": "Quadriceps",
+      "muscleGroupStd": "Legs",
+      "targetMuscles": [
+        "Quadriceps",
+        "Gluteus Medius"
+      ],
+      "secondaryMuscles": [
+        "Calves",
+        "Hamstrings"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Quadriceps",
+          "Gluteus Medius"
+        ],
+        "secondary": [
+          "Calves",
+          "Hamstrings"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Clear Wall Space",
+      "equipmentStd": "Household Item",
+      "difficulty": "Beginner",
+      "recommendedSets": 3,
+      "recommendedReps": "30-60s hold",
+      "repsMin": 30,
+      "repsMax": 60,
+      "repUnit": "seconds",
+      "perSide": false,
+      "defaultWeightKg": null,
+      "breathCycleSeconds": null,
+      "whatItIs": "An isometric endurance exercise leaning back against a wall in a seated 90-degree knee position.",
+      "whyItIsUseful": "Builds massive quad burn and isometric tendon resilience with zero impact on knees.",
+      "benefits": "Builds massive quad burn and isometric tendon resilience with zero impact on knees.",
+      "startingPosition": null,
+      "correctPosture": "Do not let knees drift past toes; keep thighs parallel to floor.",
+      "breathingInstructions": "Deep rhythmic belly breaths to stay calm under intense quadriceps burn.",
+      "movementControlTips": null,
+      "householdSubstitute": "Any flat sturdy wall or closed door.",
+      "stepByStep": [
+        "Lean back against a flat wall, slide down until thighs are parallel to the floor.",
+        "Ensure knees are bent at 90 degrees and stacked directly over ankles.",
+        "Press entire back, from shoulder blades to lower back, flat into wall surface.",
+        "Rest hands on chest or sides (never on thighs).",
+        "Breathe steadily and hold for designated duration."
+      ],
+      "stepByStepExecution": [
+        "Lean back against a flat wall, slide down until thighs are parallel to the floor.",
+        "Ensure knees are bent at 90 degrees and stacked directly over ankles.",
+        "Press entire back, from shoulder blades to lower back, flat into wall surface.",
+        "Rest hands on chest or sides (never on thighs).",
+        "Breathe steadily and hold for designated duration."
+      ],
+      "commonMistakes": [
+        "Resting palms on knees to offload bodyweight.",
+        "Slumping forward off the wall."
+      ],
+      "safetyTips": [
+        "Wear shoes or socks on carpet to prevent feet slipping forward."
+      ],
+      "alternatives": [],
+      "variations": {
+        "easier": [
+          "Hold at 45 or 60 degree knee angle instead of 90 degrees"
+        ],
+        "harder": [
+          "Single-Leg Wall Sit",
+          "Hold a loaded backpack or heavy book on thighs"
+        ],
+        "alternatives": []
+      }
+    },
+    {
+      "id": "home-burpees",
+      "name": "Full Body Burpees",
+      "category": "home",
+      "muscleGroup": "Full Body",
+      "muscleGroupStd": "Full Body",
+      "targetMuscles": [
+        "Full Body (Pectorals, Quads, Delts, Core)"
+      ],
+      "secondaryMuscles": [
+        "Calves",
+        "Cardiovascular Conditioning"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Full Body (Pectorals, Quads, Delts, Core)"
+        ],
+        "secondary": [
+          "Calves",
+          "Cardiovascular Conditioning"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Bodyweight",
+      "equipmentStd": "Bodyweight",
+      "difficulty": "Advanced",
+      "recommendedSets": 3,
+      "recommendedReps": "10-15",
+      "repsMin": 10,
+      "repsMax": 15,
+      "repUnit": "reps",
+      "perSide": false,
+      "defaultWeightKg": null,
+      "breathCycleSeconds": null,
+      "whatItIs": "An explosive dynamic sequence transitioning from standing to squat to push-up plank, and jumping back upright.",
+      "whyItIsUseful": "High-octane metabolic engine builder, systemic power producer, and calorie-burning titan.",
+      "benefits": "High-octane metabolic engine builder, systemic power producer, and calorie-burning titan.",
+      "startingPosition": null,
+      "correctPosture": "Keep core tight when kicking feet out to avoid sagging lower back.",
+      "breathingInstructions": "Exhale forcefully on the explosive jump upward.",
+      "movementControlTips": null,
+      "householdSubstitute": "None needed; requires only a 6x3 ft floor clearing.",
+      "stepByStep": [
+        "Stand tall, drop quickly into a deep squat and plant hands on floor in front of feet.",
+        "Kick both feet back into a full plank position, immediately lowering chest to touch floor.",
+        "Push chest off floor, snap feet back forward outside hands into squat position.",
+        "Explode upward vertically, reaching hands overhead with a jump."
+      ],
+      "stepByStepExecution": [
+        "Stand tall, drop quickly into a deep squat and plant hands on floor in front of feet.",
+        "Kick both feet back into a full plank position, immediately lowering chest to touch floor.",
+        "Push chest off floor, snap feet back forward outside hands into squat position.",
+        "Explode upward vertically, reaching hands overhead with a jump."
+      ],
+      "commonMistakes": [
+        "Landing with stiff, locked knees.",
+        "Hyperextending spine when feet jump back."
+      ],
+      "safetyTips": [
+        "Step feet back one at a time if high impact jumping causes joint ache."
+      ],
+      "alternatives": [],
+      "variations": {
+        "easier": [
+          "Sprawl (no push-up at bottom)",
+          "Step-back Burpee (no jumping)"
+        ],
+        "harder": [
+          "Tuck Jump Burpee",
+          "Single-Leg Burpee"
+        ],
+        "alternatives": []
+      }
+    },
+    {
+      "id": "home-water-bottle-lateral-raise",
+      "name": "Household Bottle Lateral Raise",
+      "category": "home",
+      "muscleGroup": "Shoulders",
+      "muscleGroupStd": "Shoulders",
+      "targetMuscles": [
+        "Lateral Deltoid"
+      ],
+      "secondaryMuscles": [
+        "Anterior Deltoid",
+        "Upper Trapezius"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Lateral Deltoid"
+        ],
+        "secondary": [
+          "Anterior Deltoid",
+          "Upper Trapezius"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Two 1L or 2L Water Bottles",
+      "equipmentStd": "Household Item",
+      "difficulty": "Beginner",
+      "recommendedSets": 3,
+      "recommendedReps": "15-20",
+      "repsMin": 15,
+      "repsMax": 20,
+      "repUnit": "reps",
+      "perSide": false,
+      "defaultWeightKg": null,
+      "breathCycleSeconds": null,
+      "whatItIs": "A shoulder sculpting isolation raise using filled water or milk jugs to isolate the side deltoids.",
+      "whyItIsUseful": "Accentuates upper body width and posture without needing iron dumbbells.",
+      "benefits": "Accentuates upper body width and posture without needing iron dumbbells.",
+      "startingPosition": null,
+      "correctPosture": "Do not swing hips; raise with side shoulder blades depressed.",
+      "breathingInstructions": "Exhale raising; inhale lowering.",
+      "movementControlTips": null,
+      "householdSubstitute": "Two 1L water bottles = approx 1kg each; two 2L water bottles = approx 2kg each.",
+      "stepByStep": [
+        "Hold two identical water bottles at sides, palms facing inward toward body.",
+        "Maintain a soft bend in knees and elbows with slight forward torso lean.",
+        "Raise bottles outward to sides until arms reach shoulder level.",
+        "Pause for 1 second, then lower under slow control back to starting position."
+      ],
+      "stepByStepExecution": [
+        "Hold two identical water bottles at sides, palms facing inward toward body.",
+        "Maintain a soft bend in knees and elbows with slight forward torso lean.",
+        "Raise bottles outward to sides until arms reach shoulder level.",
+        "Pause for 1 second, then lower under slow control back to starting position."
+      ],
+      "commonMistakes": [
+        "Shrugging traps.",
+        "Using unevenly filled bottles."
+      ],
+      "safetyTips": [
+        "Ensure caps are tightly screwed on."
+      ],
+      "alternatives": [],
+      "variations": {
+        "easier": [
+          "500ml mini water bottles"
+        ],
+        "harder": [
+          "Filled 2L or 3L laundry detergent jugs with handles"
+        ],
+        "alternatives": []
+      }
+    },
+    {
+      "id": "pilates-hundred",
+      "name": "The Hundred",
+      "category": "pilates",
+      "muscleGroup": "Core",
+      "muscleGroupStd": "Core",
+      "targetMuscles": [
+        "Transverse Abdominis",
+        "Rectus Abdominis"
+      ],
+      "secondaryMuscles": [
+        "Hip Flexors",
+        "Intercostals",
+        "Scapular Stabilizers"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Transverse Abdominis",
+          "Rectus Abdominis"
+        ],
+        "secondary": [
+          "Hip Flexors",
+          "Intercostals",
+          "Scapular Stabilizers"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Pilates Mat",
+      "equipmentStd": "Pilates Mat",
+      "difficulty": "Beginner",
+      "recommendedSets": 1,
+      "recommendedReps": "100 arm pumps (10 breath cycles)",
+      "repsMin": 100,
+      "repsMax": 100,
+      "repUnit": "pumps",
+      "perSide": false,
+      "defaultWeightKg": null,
+      "breathCycleSeconds": 5,
+      "whatItIs": "A classical Pilates warm-up coordinating steady arm pumps with rhythmic breathing while the trunk stays curled and stable.",
+      "whyItIsUseful": "Builds abdominal endurance, shoulder control, and breath coordination.",
+      "benefits": "Builds abdominal endurance, shoulder control, and breath coordination.",
+      "startingPosition": "Lie on your back with knees drawn in, arms long by your sides, and pelvis neutral or gently imprinted.",
+      "correctPosture": null,
+      "breathingInstructions": "5 arm pumps inhaling, 5 arm pumps exhaling; repeat for 10 cycles (100 pumps). Expand the ribs while keeping the lower back comfortably imprinted.",
+      "movementControlTips": "Keep the pump small and even, collarbones wide, and shoulders away from ears. The 45° straight-leg option is Intermediate; use it only if the lumbar spine stays imprinted.",
+      "householdSubstitute": null,
+      "stepByStep": [
+        "Curl your head, neck, and shoulder blades off the mat, gazing toward your abdomen.",
+        "Lift legs to tabletop (knees bent 90°, shins parallel to floor) or extend them straight at about 45° if your lower back stays imprinted.",
+        "Reach straight arms forward, about 15 cm above the mat, with shoulders relaxed.",
+        "Pump the arms up and down from the shoulder while keeping the torso and pelvis steady.",
+        "Complete 5 pumps inhaling and 5 pumps exhaling; 10 cycles total = 100 pumps."
+      ],
+      "stepByStepExecution": [
+        "Curl your head, neck, and shoulder blades off the mat, gazing toward your abdomen.",
+        "Lift legs to tabletop (knees bent 90°, shins parallel to floor) or extend them straight at about 45° if your lower back stays imprinted.",
+        "Reach straight arms forward, about 15 cm above the mat, with shoulders relaxed.",
+        "Pump the arms up and down from the shoulder while keeping the torso and pelvis steady.",
+        "Complete 5 pumps inhaling and 5 pumps exhaling; 10 cycles total = 100 pumps."
+      ],
+      "commonMistakes": [
+        "Letting the lower back arch as the legs fatigue.",
+        "Pumping from floppy wrists instead of the shoulders.",
+        "Pulling the head forward or straining the neck."
+      ],
+      "safetyTips": [
+        "For neck discomfort, keep the head down; for back pain, bend the knees or stop. During pregnancy, avoid prolonged supine work unless cleared by a qualified clinician."
+      ],
+      "alternatives": [],
+      "variations": {
+        "easier": [
+          "Keep feet on the floor with knees bent, or use tabletop legs. Rest the head if the neck tires."
+        ],
+        "harder": [
+          "Use straight legs at approximately 45° only while maintaining a stable, imprinted lower back."
+        ],
+        "alternatives": []
+      }
+    },
+    {
+      "id": "pilates-roll-up",
+      "name": "The Roll-Up",
+      "category": "pilates",
+      "muscleGroup": "Spine & Core",
+      "muscleGroupStd": "Core",
+      "targetMuscles": [
+        "Rectus Abdominis",
+        "Deep Abdominal Wall",
+        "Spinal Articulators"
+      ],
+      "secondaryMuscles": [
+        "Hamstrings",
+        "Pectoralis Minor",
+        "Hip Flexors"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Rectus Abdominis",
+          "Deep Abdominal Wall",
+          "Spinal Articulators"
+        ],
+        "secondary": [
+          "Hamstrings",
+          "Pectoralis Minor",
+          "Hip Flexors"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Pilates Mat",
+      "equipmentStd": "Pilates Mat",
+      "difficulty": "Intermediate",
+      "recommendedSets": 1,
+      "recommendedReps": "5-8 controlled rolls",
+      "repsMin": 5,
+      "repsMax": 8,
+      "repUnit": "reps",
+      "perSide": false,
+      "defaultWeightKg": null,
+      "breathCycleSeconds": 4,
+      "whatItIs": "A controlled spinal-articulation exercise that rolls from supine to a seated forward reach and returns one segment at a time.",
+      "whyItIsUseful": "Develops abdominal control, spinal mobility, and posterior-chain flexibility.",
+      "benefits": "Develops abdominal control, spinal mobility, and posterior-chain flexibility.",
+      "startingPosition": "Lie on the mat with legs together, feet flexed, heels together, and arms reaching overhead.",
+      "correctPosture": null,
+      "breathingInstructions": "Inhale arms up; exhale chin-to-chest and roll up; inhale at the top C-curve; exhale to roll down.",
+      "movementControlTips": "Keep heels together and grounded; avoid momentum. Lengthen through the crown while rounding evenly through the spine.",
+      "householdSubstitute": null,
+      "stepByStep": [
+        "Inhale: arms float to the ceiling.",
+        "Exhale: nod the chin to the chest and roll up segment by segment, reaching forward over the legs.",
+        "Inhale at the top in a rounded C-curve, keeping heels connected to the mat.",
+        "Exhale and roll down sequentially: tailbone, low back, mid-back, shoulders, then head.",
+        "Finish with arms overhead and heels grounded before the next repetition."
+      ],
+      "stepByStepExecution": [
+        "Inhale: arms float to the ceiling.",
+        "Exhale: nod the chin to the chest and roll up segment by segment, reaching forward over the legs.",
+        "Inhale at the top in a rounded C-curve, keeping heels connected to the mat.",
+        "Exhale and roll down sequentially: tailbone, low back, mid-back, shoulders, then head.",
+        "Finish with arms overhead and heels grounded before the next repetition."
+      ],
+      "commonMistakes": [
+        "Swinging arms to gain momentum.",
+        "Allowing heels to lift.",
+        "Collapsing the chest onto the thighs instead of maintaining an active C-curve."
+      ],
+      "safetyTips": [
+        "Avoid the Roll-Up with an acute back or neck injury; choose the assisted version and stop if pain or nerve symptoms occur."
+      ],
+      "alternatives": [],
+      "variations": {
+        "easier": [
+          "Bend the knees slightly and hold behind the thighs for assistance; use an assisted version with a strap if needed."
+        ],
+        "harder": [
+          "Roll up with arms crossed over the chest, maintaining the same slow articulation."
+        ],
+        "alternatives": []
+      }
+    },
+    {
+      "id": "pilates-single-leg-stretch",
+      "name": "Single Leg Stretch",
+      "category": "pilates",
+      "muscleGroup": "Core",
+      "muscleGroupStd": "Core",
+      "targetMuscles": [
+        "Transverse Abdominis",
+        "Internal Obliques"
+      ],
+      "secondaryMuscles": [
+        "Hip Flexors",
+        "Quadriceps"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Transverse Abdominis",
+          "Internal Obliques"
+        ],
+        "secondary": [
+          "Hip Flexors",
+          "Quadriceps"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Pilates Mat",
+      "equipmentStd": "Pilates Mat",
+      "difficulty": "Intermediate",
+      "recommendedSets": 1,
+      "recommendedReps": "10-12 per leg",
+      "repsMin": 10,
+      "repsMax": 12,
+      "repUnit": "reps",
+      "perSide": true,
+      "defaultWeightKg": null,
+      "breathCycleSeconds": 4,
+      "whatItIs": "A curled abdominal exercise alternating one knee toward the chest while the other leg reaches long.",
+      "whyItIsUseful": "Trains trunk stability while the hips move independently.",
+      "benefits": "Trains trunk stability while the hips move independently.",
+      "startingPosition": "Lie supine, curl head and shoulders off the mat, and bring one knee toward the chest while the other leg reaches at a controlled angle.",
+      "correctPosture": null,
+      "breathingInstructions": "Inhale on one leg switch and exhale on the next; two switches make one full breath cycle.",
+      "movementControlTips": "Keep the torso quiet and the shoulders broad. Lift the extended leg higher if the back begins to arch.",
+      "householdSubstitute": null,
+      "stepByStep": [
+        "For the bent right leg, place the outside (right) hand on the right ankle and the inside (left) hand on the right knee.",
+        "Keep shoulders curled and pelvis still; extend the opposite leg long without arching the back.",
+        "Switch legs smoothly. For the bent left leg, place the outside (left) hand on the left ankle and inside (right) hand on the left knee.",
+        "Continue alternating with the extended leg at about 45° only if the lower back remains steady."
+      ],
+      "stepByStepExecution": [
+        "For the bent right leg, place the outside (right) hand on the right ankle and the inside (left) hand on the right knee.",
+        "Keep shoulders curled and pelvis still; extend the opposite leg long without arching the back.",
+        "Switch legs smoothly. For the bent left leg, place the outside (left) hand on the left ankle and inside (right) hand on the left knee.",
+        "Continue alternating with the extended leg at about 45° only if the lower back remains steady."
+      ],
+      "commonMistakes": [
+        "Rocking the pelvis or shoulders.",
+        "Letting the low back lift as the straight leg lowers.",
+        "Pulling the bent knee aggressively into the chest."
+      ],
+      "safetyTips": [
+        "If the neck strains, rest the head; if the lower back hurts, keep the extended leg higher or feet grounded. Avoid prolonged supine positioning during pregnancy unless medically cleared."
+      ],
+      "alternatives": [],
+      "variations": {
+        "easier": [
+          "Keep the head resting on the mat and/or reach the extended leg higher."
+        ],
+        "harder": [
+          "Place hands behind the head while keeping elbows wide and maintaining the alternating leg action."
+        ],
+        "alternatives": []
+      }
+    },
+    {
+      "id": "pilates-double-leg-stretch",
+      "name": "Double Leg Stretch",
+      "category": "pilates",
+      "muscleGroup": "Core",
+      "muscleGroupStd": "Core",
+      "targetMuscles": [
+        "Transverse Abdominis",
+        "Rectus Abdominis"
+      ],
+      "secondaryMuscles": [
+        "Deltoids",
+        "Adductors",
+        "Hip Flexors"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Transverse Abdominis",
+          "Rectus Abdominis"
+        ],
+        "secondary": [
+          "Deltoids",
+          "Adductors",
+          "Hip Flexors"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Pilates Mat",
+      "equipmentStd": "Pilates Mat",
+      "difficulty": "Intermediate",
+      "recommendedSets": 1,
+      "recommendedReps": "8-10 repetitions",
+      "repsMin": 8,
+      "repsMax": 10,
+      "repUnit": "reps",
+      "perSide": false,
+      "defaultWeightKg": null,
+      "breathCycleSeconds": 4,
+      "whatItIs": "A coordinated abdominal movement reaching arms and legs away from a curled center, then circling the arms to hug the knees in.",
+      "whyItIsUseful": "Challenges core control as the arm and leg levers lengthen.",
+      "benefits": "Challenges core control as the arm and leg levers lengthen.",
+      "startingPosition": "Lie on your back, knees hugged toward the chest, hands on shins, head and shoulders curled if comfortable.",
+      "correctPosture": null,
+      "breathingInstructions": "Inhale = reach out (arms overhead, legs long). Exhale = circle arms and hug knees in.",
+      "movementControlTips": "Choose a leg angle that preserves a steady lower back; shorten the reach if the spine arches.",
+      "householdSubstitute": null,
+      "stepByStep": [
+        "Inhale: reach arms overhead and extend both legs long to a controlled angle.",
+        "Keep the lower back imprinted; keep arms in your peripheral vision and no lower than the leg angle that keeps your back flat.",
+        "Exhale: circle arms wide and draw the knees back in, hands returning to the shins.",
+        "Repeat without letting the ribs flare or shoulders drop."
+      ],
+      "stepByStepExecution": [
+        "Inhale: reach arms overhead and extend both legs long to a controlled angle.",
+        "Keep the lower back imprinted; keep arms in your peripheral vision and no lower than the leg angle that keeps your back flat.",
+        "Exhale: circle arms wide and draw the knees back in, hands returning to the shins.",
+        "Repeat without letting the ribs flare or shoulders drop."
+      ],
+      "commonMistakes": [
+        "Extending legs too low and arching the back.",
+        "Dropping the shoulders during the reach.",
+        "Throwing the arms back with momentum."
+      ],
+      "safetyTips": [
+        "Rest the head for neck strain and reduce leg range for back discomfort; during pregnancy, avoid prolonged supine positioning unless cleared."
+      ],
+      "alternatives": [],
+      "variations": {
+        "easier": [
+          "Keep legs in tabletop and reach arms toward the ceiling rather than overhead."
+        ],
+        "harder": [
+          "Lower the legs toward 30° while maintaining a stable lower back and smooth arm circle."
+        ],
+        "alternatives": []
+      }
+    },
+    {
+      "id": "pilates-criss-cross",
+      "name": "Criss-Cross",
+      "category": "pilates",
+      "muscleGroup": "Core & Obliques",
+      "muscleGroupStd": "Core",
+      "targetMuscles": [
+        "External Obliques",
+        "Internal Obliques",
+        "Transverse Abdominis"
+      ],
+      "secondaryMuscles": [
+        "Rectus Abdominis",
+        "Psoas Major"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "External Obliques",
+          "Internal Obliques",
+          "Transverse Abdominis"
+        ],
+        "secondary": [
+          "Rectus Abdominis",
+          "Psoas Major"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Pilates Mat",
+      "equipmentStd": "Pilates Mat",
+      "difficulty": "Intermediate",
+      "recommendedSets": 1,
+      "recommendedReps": "10-12 per side",
+      "repsMin": 10,
+      "repsMax": 12,
+      "repUnit": "reps",
+      "perSide": true,
+      "defaultWeightKg": null,
+      "breathCycleSeconds": 4,
+      "whatItIs": "A rotational abdominal exercise turning the ribcage toward the opposite bent knee while the other leg extends.",
+      "whyItIsUseful": "Builds oblique strength and controlled thoracic rotation.",
+      "benefits": "Builds oblique strength and controlled thoracic rotation.",
+      "startingPosition": "Lie supine with hands supporting the back of the head, elbows wide, shoulders curled, and legs in tabletop.",
+      "correctPosture": null,
+      "breathingInstructions": "Inhale to one side and exhale to the other; one full breath per two reps.",
+      "movementControlTips": "Keep elbows wide and rotate through the ribcage rather than pulling on the head. Maintain the extended leg at 45° or higher.",
+      "householdSubstitute": null,
+      "stepByStep": [
+        "Rotate from the ribcage to the right; the left shoulder/armpit moves toward the bent right knee, not the elbow.",
+        "Extend the left leg long at 45° only as low as the back stays imprinted.",
+        "Pass through center without lowering the shoulder blades.",
+        "Rotate to the other side, bringing the right shoulder/armpit toward the left knee as the right leg extends."
+      ],
+      "stepByStepExecution": [
+        "Rotate from the ribcage to the right; the left shoulder/armpit moves toward the bent right knee, not the elbow.",
+        "Extend the left leg long at 45° only as low as the back stays imprinted.",
+        "Pass through center without lowering the shoulder blades.",
+        "Rotate to the other side, bringing the right shoulder/armpit toward the left knee as the right leg extends."
+      ],
+      "commonMistakes": [
+        "Pulling elbows forward to fake rotation.",
+        "Dropping shoulders between sides.",
+        "Rushing with jerky bicycle movements."
+      ],
+      "safetyTips": [
+        "Keep the head supported if the neck is sensitive; reduce rotation or stop for back pain. Seek pregnancy-specific guidance before supine abdominal work."
+      ],
+      "alternatives": [],
+      "variations": {
+        "easier": [
+          "Keep both feet down and gently rotate the ribcage side to side, or rest the head."
+        ],
+        "harder": [
+          "Slow each rotation and pause briefly while keeping the shoulders lifted."
+        ],
+        "alternatives": []
+      }
+    },
+    {
+      "id": "pilates-shoulder-bridge",
+      "name": "Shoulder Bridge with Leg Kick",
+      "category": "pilates",
+      "muscleGroup": "Posterior Chain & Glutes",
+      "muscleGroupStd": "Glutes",
+      "targetMuscles": [
+        "Gluteus Maximus",
+        "Hamstrings"
+      ],
+      "secondaryMuscles": [
+        "Spinal Extensors",
+        "Quadriceps",
+        "Core"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Gluteus Maximus",
+          "Hamstrings"
+        ],
+        "secondary": [
+          "Spinal Extensors",
+          "Quadriceps",
+          "Core"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Pilates Mat",
+      "equipmentStd": "Pilates Mat",
+      "difficulty": "Intermediate",
+      "recommendedSets": 2,
+      "recommendedReps": "6-8 per leg",
+      "repsMin": 6,
+      "repsMax": 8,
+      "repUnit": "reps",
+      "perSide": true,
+      "defaultWeightKg": null,
+      "breathCycleSeconds": 4,
+      "whatItIs": "An articulated shoulder bridge with a controlled straight-leg kick while the pelvis remains level.",
+      "whyItIsUseful": "Strengthens glutes and hamstrings while challenging pelvic stability.",
+      "benefits": "Strengthens glutes and hamstrings while challenging pelvic stability.",
+      "startingPosition": "Lie supine with knees bent, feet hip-width and flat, arms beside the body. Roll the spine up one vertebra at a time into a shoulder bridge, then support the hips with the hands and elbows on the mat.",
+      "correctPosture": null,
+      "breathingInstructions": "Exhale as the leg kicks down with a flexed foot; inhale as it kicks up with a pointed foot. Repeat consistently for each kick.",
+      "movementControlTips": "Hands support under the hips in the standard version; keep the neck long and the pelvis level throughout each kick.",
+      "householdSubstitute": null,
+      "stepByStep": [
+        "Roll the spine up one vertebra at a time into the bridge; weight rests on shoulders, not the neck.",
+        "Bring one leg toward the ceiling with a pointed foot while keeping the pelvis level.",
+        "Extend the leg to the ceiling, kick it down (foot flexed) to hip height of the other thigh, and kick it back up (foot pointed) — twice, keeping the pelvis level.",
+        "Set the foot down, then repeat on the other side without shifting the pelvis.",
+        "Roll down one vertebra at a time, returning the hips to the mat. Never turn the head side to side."
+      ],
+      "stepByStepExecution": [
+        "Roll the spine up one vertebra at a time into the bridge; weight rests on shoulders, not the neck.",
+        "Bring one leg toward the ceiling with a pointed foot while keeping the pelvis level.",
+        "Extend the leg to the ceiling, kick it down (foot flexed) to hip height of the other thigh, and kick it back up (foot pointed) — twice, keeping the pelvis level.",
+        "Set the foot down, then repeat on the other side without shifting the pelvis.",
+        "Roll down one vertebra at a time, returning the hips to the mat. Never turn the head side to side."
+      ],
+      "commonMistakes": [
+        "Letting one hip drop as the leg moves.",
+        "Compressing the neck or pushing weight into the cervical spine.",
+        "Arching the low back instead of articulating through the spine."
+      ],
+      "safetyTips": [
+        "Do not turn the head in the bridge; stop for neck or back pain and avoid this position if a clinician has restricted spinal extension."
+      ],
+      "alternatives": [],
+      "variations": {
+        "easier": [
+          "Keep arms flat on the mat and perform a static bridge without the single-leg kick."
+        ],
+        "harder": [
+          "Maintain the bridge and complete the full leg-kick sequence on both sides with precise pelvic control."
+        ],
+        "alternatives": []
+      }
+    },
+    {
+      "id": "pilates-swan-prep",
+      "name": "Swan Prep",
+      "category": "pilates",
+      "muscleGroup": "Back & Posture",
+      "muscleGroupStd": "Back",
+      "targetMuscles": [
+        "Erector Spinae",
+        "Thoracic Extensors"
+      ],
+      "secondaryMuscles": [
+        "Gluteals",
+        "Rhomboids",
+        "Triceps"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Erector Spinae",
+          "Thoracic Extensors"
+        ],
+        "secondary": [
+          "Gluteals",
+          "Rhomboids",
+          "Triceps"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Pilates Mat",
+      "equipmentStd": "Pilates Mat",
+      "difficulty": "Beginner",
+      "recommendedSets": 1,
+      "recommendedReps": "6-8 controlled lifts",
+      "repsMin": 6,
+      "repsMax": 8,
+      "repUnit": "reps",
+      "perSide": false,
+      "defaultWeightKg": null,
+      "breathCycleSeconds": 4,
+      "whatItIs": "A prone extension that lengthens the spine and gently lifts the upper chest using thoracic extensors.",
+      "whyItIsUseful": "Develops upper-back strength and comfortable spinal extension.",
+      "benefits": "Develops upper-back strength and comfortable spinal extension.",
+      "startingPosition": "Lie prone with legs hip-width, palms under shoulders, and elbows hugged in; keep the pelvis and legs grounded.",
+      "correctPosture": null,
+      "breathingInstructions": "Inhale to lengthen and lift; exhale to lower with control.",
+      "movementControlTips": "Focus on length rather than height. Keep the gaze forward/down and avoid neck over-extension.",
+      "householdSubstitute": null,
+      "stepByStep": [
+        "Gently anchor the pubic bone and keep the lower abdomen lightly lifted.",
+        "Inhale and lengthen the crown of the head forward and up.",
+        "Press lightly through the palms as the upper chest rises; lift only until the lower ribs are still on the mat, hips stay heavy, and neck stays long.",
+        "Broaden the collarbones and slide shoulder blades down the back.",
+        "Exhale and lower smoothly, lengthening forward as you return."
+      ],
+      "stepByStepExecution": [
+        "Gently anchor the pubic bone and keep the lower abdomen lightly lifted.",
+        "Inhale and lengthen the crown of the head forward and up.",
+        "Press lightly through the palms as the upper chest rises; lift only until the lower ribs are still on the mat, hips stay heavy, and neck stays long.",
+        "Broaden the collarbones and slide shoulder blades down the back.",
+        "Exhale and lower smoothly, lengthening forward as you return."
+      ],
+      "commonMistakes": [
+        "Throwing the head back and compressing the neck.",
+        "Lifting the lower ribs or hips off the mat.",
+        "Crunching into the lower back."
+      ],
+      "safetyTips": [
+        "Avoid painful spinal extension; if lower-back symptoms or pregnancy-related restrictions apply, consult a qualified clinician before prone work."
+      ],
+      "alternatives": [],
+      "variations": {
+        "easier": [
+          "Keep hands relaxed by the sides and lift the head and upper chest only a small amount."
+        ],
+        "harder": [
+          "Progress to Swan with straight arms and then Swan Dive rocking, only after pain-free control is established."
+        ],
+        "alternatives": []
+      }
+    },
+    {
+      "id": "pilates-swimming",
+      "name": "Swimming",
+      "category": "pilates",
+      "muscleGroup": "Back & Glutes",
+      "muscleGroupStd": "Back",
+      "targetMuscles": [
+        "Erector Spinae",
+        "Gluteus Maximus",
+        "Hamstrings"
+      ],
+      "secondaryMuscles": [
+        "Posterior Deltoids",
+        "Transverse Abdominis"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Erector Spinae",
+          "Gluteus Maximus",
+          "Hamstrings"
+        ],
+        "secondary": [
+          "Posterior Deltoids",
+          "Transverse Abdominis"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Pilates Mat",
+      "equipmentStd": "Pilates Mat",
+      "difficulty": "Intermediate",
+      "recommendedSets": 1,
+      "recommendedReps": "30-45 seconds",
+      "repsMin": 30,
+      "repsMax": 45,
+      "repUnit": "seconds",
+      "perSide": false,
+      "defaultWeightKg": null,
+      "breathCycleSeconds": 5,
+      "whatItIs": "A prone extension endurance exercise with a small, alternating opposite arm-and-leg flutter.",
+      "whyItIsUseful": "Builds posterior-chain endurance and cross-body coordination.",
+      "benefits": "Builds posterior-chain endurance and cross-body coordination.",
+      "startingPosition": "Lie prone with arms reaching overhead and legs hip-width; keep the pelvis grounded and abdomen gently lifted.",
+      "correctPosture": null,
+      "breathingInstructions": "Inhale for 5 flutter counts and exhale for 5 flutter counts, repeating the rhythm.",
+      "movementControlTips": "Keep the amplitude small and movement from the shoulder and hip joints. If the lower back pinches, reduce the lift height or keep the legs grounded.",
+      "householdSubstitute": null,
+      "stepByStep": [
+        "Inhale and lift the head and chest into a small extension, keeping the neck long.",
+        "Hover the arms and legs just off the mat; lift the right arm with the left leg, then switch to the left arm with the right leg.",
+        "Continue a small, quick opposite arm-and-leg flutter while the torso stays steady.",
+        "Maintain an even cadence without rocking the hips."
+      ],
+      "stepByStepExecution": [
+        "Inhale and lift the head and chest into a small extension, keeping the neck long.",
+        "Hover the arms and legs just off the mat; lift the right arm with the left leg, then switch to the left arm with the right leg.",
+        "Continue a small, quick opposite arm-and-leg flutter while the torso stays steady.",
+        "Maintain an even cadence without rocking the hips."
+      ],
+      "commonMistakes": [
+        "Flailing with bent knees and elbows.",
+        "Rocking the whole body from side to side.",
+        "Lifting too high and compressing the low back."
+      ],
+      "safetyTips": [
+        "For lower-back pinching, lower the limbs or stop; avoid prone positioning if pregnancy or a medical condition makes it unsuitable."
+      ],
+      "alternatives": [],
+      "variations": {
+        "easier": [
+          "Lift one opposite arm and leg pair at a time, slowly, or keep the chest down."
+        ],
+        "harder": [
+          "Increase flutter cadence while maintaining a quiet torso and pain-free range."
+        ],
+        "alternatives": []
+      }
+    },
+    {
+      "id": "pilates-side-leg-lift",
+      "name": "Side Leg Lift Series",
+      "category": "pilates",
+      "muscleGroup": "Hips & Outer Thighs",
+      "muscleGroupStd": "Glutes",
+      "targetMuscles": [
+        "Gluteus Medius",
+        "Gluteus Minimus",
+        "Tensor Fasciae Latae"
+      ],
+      "secondaryMuscles": [
+        "Obliques",
+        "Quadriceps"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Gluteus Medius",
+          "Gluteus Minimus",
+          "Tensor Fasciae Latae"
+        ],
+        "secondary": [
+          "Obliques",
+          "Quadriceps"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Pilates Mat",
+      "equipmentStd": "Pilates Mat",
+      "difficulty": "Beginner",
+      "recommendedSets": 2,
+      "recommendedReps": "Lift/lower + 10 circles each direction per side",
+      "repsMin": null,
+      "repsMax": null,
+      "repUnit": "mixed",
+      "perSide": true,
+      "defaultWeightKg": null,
+      "breathCycleSeconds": 4,
+      "whatItIs": "A side-lying series of controlled leg lifts and small circles for the hip abductors and trunk stabilizers.",
+      "whyItIsUseful": "Strengthens lateral hip muscles and trains stacked pelvic alignment.",
+      "benefits": "Strengthens lateral hip muscles and trains stacked pelvic alignment.",
+      "startingPosition": "Lie on your side with legs slightly forward of the hips (~30°), hips stacked, and the bottom arm extended under the head or head supported on the hand. Place the top hand on the mat in front of the ribs.",
+      "correctPosture": null,
+      "breathingInstructions": "Inhale as the leg lifts; exhale as it lowers. Breathe steadily during the small circles.",
+      "movementControlTips": "Keep legs slightly forward of the body line and the waist lifted; circles stay small and the pelvis remains still.",
+      "householdSubstitute": null,
+      "stepByStep": [
+        "Keep the body long and hips stacked; lift the top leg to hip height with toes pointed.",
+        "Lower with control using a flexed foot, keeping the top knee facing forward.",
+        "Perform small circles forward ×10 without rocking the pelvis.",
+        "Reverse direction for small circles ×10, then repeat on the other side."
+      ],
+      "stepByStepExecution": [
+        "Keep the body long and hips stacked; lift the top leg to hip height with toes pointed.",
+        "Lower with control using a flexed foot, keeping the top knee facing forward.",
+        "Perform small circles forward ×10 without rocking the pelvis.",
+        "Reverse direction for small circles ×10, then repeat on the other side."
+      ],
+      "commonMistakes": [
+        "Rolling the pelvis back and using hip flexors instead of the side glutes.",
+        "Lifting the leg excessively high.",
+        "Letting the top foot turn up (hip rotates open) – keep the knee facing forward."
+      ],
+      "safetyTips": [
+        "Use a comfortable side-lying setup and stop if hip, back, or shoulder pain develops; modify positioning during pregnancy for comfort."
+      ],
+      "alternatives": [],
+      "variations": {
+        "easier": [
+          "Bend the bottom knee for stability and reduce the lift height."
+        ],
+        "harder": [
+          "Add a light resistance loop around the thighs while preserving stacked hips."
+        ],
+        "alternatives": []
+      }
+    },
+    {
+      "id": "pilates-teaser",
+      "name": "The Teaser",
+      "category": "pilates",
+      "muscleGroup": "Core & Balance",
+      "muscleGroupStd": "Core",
+      "targetMuscles": [
+        "Transverse Abdominis",
+        "Rectus Abdominis",
+        "Psoas Major"
+      ],
+      "secondaryMuscles": [
+        "Erector Spinae",
+        "Quadriceps",
+        "Adductors"
+      ],
+      "musclesTargeted": {
+        "primary": [
+          "Transverse Abdominis",
+          "Rectus Abdominis",
+          "Psoas Major"
+        ],
+        "secondary": [
+          "Erector Spinae",
+          "Quadriceps",
+          "Adductors"
+        ],
+        "stabilizers": []
+      },
+      "equipment": "Pilates Mat",
+      "equipmentStd": "Pilates Mat",
+      "difficulty": "Advanced",
+      "recommendedSets": 1,
+      "recommendedReps": "3-5 controlled repetitions",
+      "repsMin": 3,
+      "repsMax": 5,
+      "repUnit": "reps",
+      "perSide": false,
+      "defaultWeightKg": null,
+      "breathCycleSeconds": 4,
+      "whatItIs": "A classical balance in a precise V shape, entered and exited through controlled spinal articulation.",
+      "whyItIsUseful": "Challenges abdominal strength, balance, and coordinated control of the legs and trunk.",
+      "benefits": "Challenges abdominal strength, balance, and coordinated control of the legs and trunk.",
+      "startingPosition": "Lie supine with arms overhead. Keep legs together at about 45° only if the low back is imprinted; otherwise begin with knees bent.",
+      "correctPosture": null,
+      "breathingInstructions": "Inhale as the arms rise and you roll up; exhale to roll down. Use the same sequence each repetition.",
+      "movementControlTips": "The V is balanced on the sit-bones, not the tailbone. Keep shoulders broad and legs together; bend the knees if the lower back loses contact/control.",
+      "householdSubstitute": null,
+      "stepByStep": [
+        "Inhale as the arms rise and you curl the chin and roll up segment by segment.",
+        "Balance on the sit-bones, not the tailbone: torso about 45° from the floor, legs about 45° from the floor, and arms parallel to the legs.",
+        "Hold the V with a long spine and steady breath, keeping inner thighs together.",
+        "Exhale as you roll down with control, maintaining the leg angle only while the lower back stays stable."
+      ],
+      "stepByStepExecution": [
+        "Inhale as the arms rise and you curl the chin and roll up segment by segment.",
+        "Balance on the sit-bones, not the tailbone: torso about 45° from the floor, legs about 45° from the floor, and arms parallel to the legs.",
+        "Hold the V with a long spine and steady breath, keeping inner thighs together.",
+        "Exhale as you roll down with control, maintaining the leg angle only while the lower back stays stable."
+      ],
+      "commonMistakes": [
+        "Collapsing the chest and rounding shoulders forward.",
+        "Jerking the legs to gain balance.",
+        "Dropping down without spinal control or over-arching the low back."
+      ],
+      "safetyTips": [
+        "Rest the head or bend the knees for neck or back discomfort; avoid advanced supine abdominal work during pregnancy unless cleared by a clinician."
+      ],
+      "alternatives": [],
+      "variations": {
+        "easier": [
+          "Teaser 1 with knees bent, holding behind the thighs while rolling up and down."
+        ],
+        "harder": [
+          "Progress to Teaser variations that move the arms or legs only after a stable, pain-free V is controlled."
+        ],
+        "alternatives": []
+      }
+    }
+  ],
+  "plans": [
+    {
+      "id": "gym-ppl",
+      "title": "Push Pull Legs (PPL) Hypertrophy Split",
+      "category": "gym",
+      "level": "Intermediate",
+      "goal": "Muscle building",
+      "duration": "45-60 min",
+      "daysPerWeek": 6,
+      "description": "The gold-standard high-frequency split dividing training into pushing muscles, pulling muscles, and lower body for maximum muscle protein synthesis.",
+      "schedule": [
+        {
+          "day": "Monday",
+          "focus": "Push (Chest, Delts, Triceps)",
+          "exerciseIds": [
+            "gym-bench-press",
+            "gym-dumbbell-shoulder-press",
+            "gym-dumbbell-lateral-raise",
+            "gym-cable-tricep-pushdown"
+          ],
+          "exercises": [
+            "gym-bench-press",
+            "gym-dumbbell-shoulder-press",
+            "gym-dumbbell-lateral-raise",
+            "gym-cable-tricep-pushdown"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "focus": "Pull (Lats, Upper Back, Biceps)",
+          "exerciseIds": [
+            "gym-lat-pulldown",
+            "gym-cable-seated-row",
+            "gym-dumbbell-bicep-curl"
+          ],
+          "exercises": [
+            "gym-lat-pulldown",
+            "gym-cable-seated-row",
+            "gym-dumbbell-bicep-curl"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "focus": "Legs (Quads, Hamstrings, Core)",
+          "exerciseIds": [
+            "gym-barbell-squat",
+            "gym-leg-press",
+            "gym-romanian-deadlift",
+            "gym-hanging-leg-raise"
+          ],
+          "exercises": [
+            "gym-barbell-squat",
+            "gym-leg-press",
+            "gym-romanian-deadlift",
+            "gym-hanging-leg-raise"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "focus": "Push Hypertrophy",
+          "exerciseIds": [
+            "gym-bench-press",
+            "gym-dumbbell-shoulder-press",
+            "gym-cable-tricep-pushdown"
+          ],
+          "exercises": [
+            "gym-bench-press",
+            "gym-dumbbell-shoulder-press",
+            "gym-cable-tricep-pushdown"
+          ]
+        },
+        {
+          "day": "Friday",
+          "focus": "Pull Width & Density",
+          "exerciseIds": [
+            "gym-lat-pulldown",
+            "gym-cable-seated-row",
+            "gym-dumbbell-bicep-curl"
+          ],
+          "exercises": [
+            "gym-lat-pulldown",
+            "gym-cable-seated-row",
+            "gym-dumbbell-bicep-curl"
+          ]
+        },
+        {
+          "day": "Saturday",
+          "focus": "Legs & Posterior Chain",
+          "exerciseIds": [
+            "gym-barbell-deadlift",
+            "gym-leg-press",
+            "gym-hanging-leg-raise"
+          ],
+          "exercises": [
+            "gym-barbell-deadlift",
+            "gym-leg-press",
+            "gym-hanging-leg-raise"
+          ]
+        },
+        {
+          "day": "Sunday",
+          "focus": "Active Recovery & Mobility",
+          "exerciseIds": [],
+          "exercises": []
+        }
+      ]
+    },
+    {
+      "id": "gym-upper-lower",
+      "title": "4-Day Upper / Lower Strength & Power",
+      "category": "gym",
+      "level": "Intermediate",
+      "goal": "Strength",
+      "duration": "45-60 min",
+      "daysPerWeek": 4,
+      "description": "A balanced 4-day split alternating heavy upper body days and heavy lower body days, maximizing recovery and strength progression.",
+      "schedule": [
+        {
+          "day": "Monday",
+          "focus": "Upper Body Strength A",
+          "exerciseIds": [
+            "gym-bench-press",
+            "gym-cable-seated-row",
+            "gym-dumbbell-shoulder-press",
+            "gym-dumbbell-bicep-curl"
+          ],
+          "exercises": [
+            "gym-bench-press",
+            "gym-cable-seated-row",
+            "gym-dumbbell-shoulder-press",
+            "gym-dumbbell-bicep-curl"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "focus": "Lower Body Strength A",
+          "exerciseIds": [
+            "gym-barbell-squat",
+            "gym-romanian-deadlift",
+            "gym-hanging-leg-raise"
+          ],
+          "exercises": [
+            "gym-barbell-squat",
+            "gym-romanian-deadlift",
+            "gym-hanging-leg-raise"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "focus": "Rest & Hydration",
+          "exerciseIds": [],
+          "exercises": []
+        },
+        {
+          "day": "Thursday",
+          "focus": "Upper Body Hypertrophy B",
+          "exerciseIds": [
+            "gym-lat-pulldown",
+            "gym-dumbbell-lateral-raise",
+            "gym-cable-tricep-pushdown",
+            "gym-dumbbell-bicep-curl"
+          ],
+          "exercises": [
+            "gym-lat-pulldown",
+            "gym-dumbbell-lateral-raise",
+            "gym-cable-tricep-pushdown",
+            "gym-dumbbell-bicep-curl"
+          ]
+        },
+        {
+          "day": "Friday",
+          "focus": "Lower Body Hypertrophy B",
+          "exerciseIds": [
+            "gym-barbell-deadlift",
+            "gym-leg-press",
+            "gym-hanging-leg-raise"
+          ],
+          "exercises": [
+            "gym-barbell-deadlift",
+            "gym-leg-press",
+            "gym-hanging-leg-raise"
+          ]
+        },
+        {
+          "day": "Saturday",
+          "focus": "Rest / Light Cardio",
+          "exerciseIds": [],
+          "exercises": []
+        },
+        {
+          "day": "Sunday",
+          "focus": "Rest",
+          "exerciseIds": [],
+          "exercises": []
+        }
+      ]
+    },
+    {
+      "id": "gym-full-body",
+      "title": "Full Body Foundation Split (3-Day)",
+      "category": "gym",
+      "level": "Beginner",
+      "goal": "General fitness",
+      "duration": "45 min",
+      "daysPerWeek": 3,
+      "description": "Ideal for beginners and busy professionals. Hits every primary compound pattern 3 times per week for rapid neuromuscular adaptation.",
+      "schedule": [
+        {
+          "day": "Monday",
+          "focus": "Full Body A",
+          "exerciseIds": [
+            "gym-barbell-squat",
+            "gym-bench-press",
+            "gym-lat-pulldown",
+            "gym-cable-tricep-pushdown"
+          ],
+          "exercises": [
+            "gym-barbell-squat",
+            "gym-bench-press",
+            "gym-lat-pulldown",
+            "gym-cable-tricep-pushdown"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "focus": "Rest",
+          "exerciseIds": [],
+          "exercises": []
+        },
+        {
+          "day": "Wednesday",
+          "focus": "Full Body B",
+          "exerciseIds": [
+            "gym-leg-press",
+            "gym-cable-seated-row",
+            "gym-dumbbell-shoulder-press",
+            "gym-dumbbell-bicep-curl"
+          ],
+          "exercises": [
+            "gym-leg-press",
+            "gym-cable-seated-row",
+            "gym-dumbbell-shoulder-press",
+            "gym-dumbbell-bicep-curl"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "focus": "Rest",
+          "exerciseIds": [],
+          "exercises": []
+        },
+        {
+          "day": "Friday",
+          "focus": "Full Body C",
+          "exerciseIds": [
+            "gym-romanian-deadlift",
+            "gym-bench-press",
+            "gym-dumbbell-lateral-raise",
+            "gym-hanging-leg-raise"
+          ],
+          "exercises": [
+            "gym-romanian-deadlift",
+            "gym-bench-press",
+            "gym-dumbbell-lateral-raise",
+            "gym-hanging-leg-raise"
+          ]
+        },
+        {
+          "day": "Saturday",
+          "focus": "Rest",
+          "exerciseIds": [],
+          "exercises": []
+        },
+        {
+          "day": "Sunday",
+          "focus": "Rest",
+          "exerciseIds": [],
+          "exercises": []
+        }
+      ]
+    },
+    {
+      "id": "gym-5day-split",
+      "title": "5-Day Bodypart Sculpting Split",
+      "category": "gym",
+      "level": "Advanced",
+      "goal": "Muscle building",
+      "duration": "60 min",
+      "daysPerWeek": 5,
+      "description": "High volume single-muscle group focus targeting Chest, Back, Shoulders, Legs, and Arms for intense targeted growth.",
+      "schedule": [
+        {
+          "day": "Monday",
+          "focus": "Chest Domination",
+          "exerciseIds": [
+            "gym-bench-press",
+            "gym-cable-tricep-pushdown"
+          ],
+          "exercises": [
+            "gym-bench-press",
+            "gym-cable-tricep-pushdown"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "focus": "Back Thickness & Lats",
+          "exerciseIds": [
+            "gym-lat-pulldown",
+            "gym-cable-seated-row",
+            "gym-barbell-deadlift"
+          ],
+          "exercises": [
+            "gym-lat-pulldown",
+            "gym-cable-seated-row",
+            "gym-barbell-deadlift"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "focus": "Shoulders & Traps",
+          "exerciseIds": [
+            "gym-dumbbell-shoulder-press",
+            "gym-dumbbell-lateral-raise"
+          ],
+          "exercises": [
+            "gym-dumbbell-shoulder-press",
+            "gym-dumbbell-lateral-raise"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "focus": "Leg Annihilation",
+          "exerciseIds": [
+            "gym-barbell-squat",
+            "gym-leg-press",
+            "gym-romanian-deadlift"
+          ],
+          "exercises": [
+            "gym-barbell-squat",
+            "gym-leg-press",
+            "gym-romanian-deadlift"
+          ]
+        },
+        {
+          "day": "Friday",
+          "focus": "Arm Specialization & Core",
+          "exerciseIds": [
+            "gym-dumbbell-bicep-curl",
+            "gym-cable-tricep-pushdown",
+            "gym-hanging-leg-raise"
+          ],
+          "exercises": [
+            "gym-dumbbell-bicep-curl",
+            "gym-cable-tricep-pushdown",
+            "gym-hanging-leg-raise"
+          ]
+        },
+        {
+          "day": "Saturday",
+          "focus": "Active Recovery",
+          "exerciseIds": [],
+          "exercises": []
+        },
+        {
+          "day": "Sunday",
+          "focus": "Rest",
+          "exerciseIds": [],
+          "exercises": []
+        }
+      ]
+    },
+    {
+      "id": "home-beginner",
+      "title": "Beginner Home Calisthenics",
+      "category": "home",
+      "level": "Beginner",
+      "goal": "General fitness",
+      "duration": "25-30 min",
+      "daysPerWeek": 3,
+      "description": "Zero barrier to entry. Master essential movement patterns using your own bodyweight with progressive adaptations.",
+      "schedule": [
+        {
+          "day": "Monday",
+          "focus": "Total Body Ignition",
+          "exerciseIds": [
+            "home-push-ups",
+            "home-bodyweight-squat",
+            "home-plank",
+            "home-glute-bridge"
+          ],
+          "exercises": [
+            "home-push-ups",
+            "home-bodyweight-squat",
+            "home-plank",
+            "home-glute-bridge"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "focus": "Active Walk / Rest",
+          "exerciseIds": [],
+          "exercises": []
+        },
+        {
+          "day": "Wednesday",
+          "focus": "Core & Lower Endurance",
+          "exerciseIds": [
+            "home-walking-lunges",
+            "home-wall-sit",
+            "home-plank"
+          ],
+          "exercises": [
+            "home-walking-lunges",
+            "home-wall-sit",
+            "home-plank"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "focus": "Rest",
+          "exerciseIds": [],
+          "exercises": []
+        },
+        {
+          "day": "Friday",
+          "focus": "Upper Push & Pull Foundations",
+          "exerciseIds": [
+            "home-push-ups",
+            "home-chair-tricep-dips",
+            "home-water-bottle-lateral-raise",
+            "home-glute-bridge"
+          ],
+          "exercises": [
+            "home-push-ups",
+            "home-chair-tricep-dips",
+            "home-water-bottle-lateral-raise",
+            "home-glute-bridge"
+          ]
+        },
+        {
+          "day": "Saturday",
+          "focus": "Rest",
+          "exerciseIds": [],
+          "exercises": []
+        },
+        {
+          "day": "Sunday",
+          "focus": "Rest",
+          "exerciseIds": [],
+          "exercises": []
+        }
+      ]
+    },
+    {
+      "id": "home-fat-loss",
+      "title": "High-Metabolic Fat Shredder",
+      "category": "home",
+      "level": "Intermediate",
+      "goal": "Weight management",
+      "duration": "30-40 min",
+      "daysPerWeek": 4,
+      "description": "High-density interval circuits alternating multi-joint bodyweight movements with cardiovascular bursts to keep heart rate elevated.",
+      "schedule": [
+        {
+          "day": "Monday",
+          "focus": "Cardio-Calisthenic Burst",
+          "exerciseIds": [
+            "home-burpees",
+            "home-mountain-climbers",
+            "home-bodyweight-squat",
+            "home-push-ups"
+          ],
+          "exercises": [
+            "home-burpees",
+            "home-mountain-climbers",
+            "home-bodyweight-squat",
+            "home-push-ups"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "focus": "Leg & Core Combustion",
+          "exerciseIds": [
+            "home-walking-lunges",
+            "home-wall-sit",
+            "home-plank",
+            "home-glute-bridge"
+          ],
+          "exercises": [
+            "home-walking-lunges",
+            "home-wall-sit",
+            "home-plank",
+            "home-glute-bridge"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "focus": "Rest",
+          "exerciseIds": [],
+          "exercises": []
+        },
+        {
+          "day": "Thursday",
+          "focus": "Upper & Core Circuit",
+          "exerciseIds": [
+            "home-push-ups",
+            "home-chair-tricep-dips",
+            "home-mountain-climbers",
+            "home-plank"
+          ],
+          "exercises": [
+            "home-push-ups",
+            "home-chair-tricep-dips",
+            "home-mountain-climbers",
+            "home-plank"
+          ]
+        },
+        {
+          "day": "Friday",
+          "focus": "Full-Body Burnout",
+          "exerciseIds": [
+            "home-burpees",
+            "home-bodyweight-squat",
+            "home-walking-lunges",
+            "home-water-bottle-lateral-raise"
+          ],
+          "exercises": [
+            "home-burpees",
+            "home-bodyweight-squat",
+            "home-walking-lunges",
+            "home-water-bottle-lateral-raise"
+          ]
+        },
+        {
+          "day": "Saturday",
+          "focus": "Outdoor Walk",
+          "exerciseIds": [],
+          "exercises": []
+        },
+        {
+          "day": "Sunday",
+          "focus": "Rest",
+          "exerciseIds": [],
+          "exercises": []
+        }
+      ]
+    },
+    {
+      "id": "home-band-hypertrophy",
+      "title": "Resistance Band Hypertrophy",
+      "category": "home",
+      "level": "Intermediate",
+      "goal": "Muscle building",
+      "duration": "40 min",
+      "daysPerWeek": 4,
+      "description": "Harness elastic tension to stimulate muscle hypertrophy at home with constant muscular tension on every rep.",
+      "schedule": [
+        {
+          "day": "Monday",
+          "focus": "Chest, Shoulders & Triceps",
+          "exerciseIds": [
+            "home-push-ups",
+            "home-water-bottle-lateral-raise",
+            "home-chair-tricep-dips"
+          ],
+          "exercises": [
+            "home-push-ups",
+            "home-water-bottle-lateral-raise",
+            "home-chair-tricep-dips"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "focus": "Back & Hamstrings",
+          "exerciseIds": [
+            "home-resistance-band-row",
+            "home-glute-bridge",
+            "home-plank"
+          ],
+          "exercises": [
+            "home-resistance-band-row",
+            "home-glute-bridge",
+            "home-plank"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "focus": "Rest",
+          "exerciseIds": [],
+          "exercises": []
+        },
+        {
+          "day": "Thursday",
+          "focus": "Quads & Core",
+          "exerciseIds": [
+            "home-bodyweight-squat",
+            "home-walking-lunges",
+            "home-wall-sit"
+          ],
+          "exercises": [
+            "home-bodyweight-squat",
+            "home-walking-lunges",
+            "home-wall-sit"
+          ]
+        },
+        {
+          "day": "Friday",
+          "focus": "Upper Body Density",
+          "exerciseIds": [
+            "home-push-ups",
+            "home-resistance-band-row",
+            "home-chair-tricep-dips",
+            "home-water-bottle-lateral-raise"
+          ],
+          "exercises": [
+            "home-push-ups",
+            "home-resistance-band-row",
+            "home-chair-tricep-dips",
+            "home-water-bottle-lateral-raise"
+          ]
+        },
+        {
+          "day": "Saturday",
+          "focus": "Rest",
+          "exerciseIds": [],
+          "exercises": []
+        },
+        {
+          "day": "Sunday",
+          "focus": "Rest",
+          "exerciseIds": [],
+          "exercises": []
+        }
+      ]
+    },
+    {
+      "id": "pilates-core-foundations",
+      "title": "Pilates Classical Mat Foundations",
+      "category": "pilates",
+      "level": "Beginner",
+      "goal": "General fitness",
+      "duration": "25-30 min",
+      "daysPerWeek": 3,
+      "description": "Learn Joseph Pilates' original principles: Centering, Concentration, Control, Precision, Breath, and Flow on your mat.",
+      "schedule": [
+        {
+          "day": "Monday",
+          "focus": "Core Awakening & Articulation",
+          "exerciseIds": [
+            "pilates-hundred",
+            "pilates-roll-up",
+            "pilates-single-leg-stretch",
+            "pilates-swan-prep"
+          ],
+          "exercises": [
+            "pilates-hundred",
+            "pilates-roll-up",
+            "pilates-single-leg-stretch",
+            "pilates-swan-prep"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "focus": "Rest & Gentle Stretch",
+          "exerciseIds": [],
+          "exercises": []
+        },
+        {
+          "day": "Wednesday",
+          "focus": "Hips, Glutes & Pelvic Control",
+          "exerciseIds": [
+            "pilates-shoulder-bridge",
+            "pilates-side-leg-lift",
+            "pilates-swimming"
+          ],
+          "exercises": [
+            "pilates-shoulder-bridge",
+            "pilates-side-leg-lift",
+            "pilates-swimming"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "focus": "Rest",
+          "exerciseIds": [],
+          "exercises": []
+        },
+        {
+          "day": "Friday",
+          "focus": "Spinal Balance & Extension",
+          "exerciseIds": [
+            "pilates-hundred",
+            "pilates-double-leg-stretch",
+            "pilates-criss-cross",
+            "pilates-swan-prep"
+          ],
+          "exercises": [
+            "pilates-hundred",
+            "pilates-double-leg-stretch",
+            "pilates-criss-cross",
+            "pilates-swan-prep"
+          ]
+        },
+        {
+          "day": "Saturday",
+          "focus": "Rest",
+          "exerciseIds": [],
+          "exercises": []
+        },
+        {
+          "day": "Sunday",
+          "focus": "Mindful Breath Walk",
+          "exerciseIds": [],
+          "exercises": []
+        }
+      ]
+    },
+    {
+      "id": "pilates-flexibility-flow",
+      "title": "Posture, Flexibility & Spine Flow",
+      "category": "pilates",
+      "level": "Intermediate",
+      "goal": "Flexibility",
+      "duration": "30-35 min",
+      "daysPerWeek": 4,
+      "description": "A calming yet deeply sculpting routine focused on thoracic opening, decompressing spinal discs, and lengthening tight hip flexors.",
+      "schedule": [
+        {
+          "day": "Monday",
+          "focus": "Spine Decompression Flow",
+          "exerciseIds": [
+            "pilates-roll-up",
+            "pilates-swan-prep",
+            "pilates-shoulder-bridge"
+          ],
+          "exercises": [
+            "pilates-roll-up",
+            "pilates-swan-prep",
+            "pilates-shoulder-bridge"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "focus": "Rotational Core & Lateral Line",
+          "exerciseIds": [
+            "pilates-criss-cross",
+            "pilates-side-leg-lift",
+            "pilates-swimming"
+          ],
+          "exercises": [
+            "pilates-criss-cross",
+            "pilates-side-leg-lift",
+            "pilates-swimming"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "focus": "Rest & Hydration",
+          "exerciseIds": [],
+          "exercises": []
+        },
+        {
+          "day": "Thursday",
+          "focus": "Deep Abdominal Control",
+          "exerciseIds": [
+            "pilates-hundred",
+            "pilates-single-leg-stretch",
+            "pilates-double-leg-stretch"
+          ],
+          "exercises": [
+            "pilates-hundred",
+            "pilates-single-leg-stretch",
+            "pilates-double-leg-stretch"
+          ]
+        },
+        {
+          "day": "Friday",
+          "focus": "Advanced Harmony & Teaser Flow",
+          "exerciseIds": [
+            "pilates-roll-up",
+            "pilates-teaser",
+            "pilates-swan-prep"
+          ],
+          "exercises": [
+            "pilates-roll-up",
+            "pilates-teaser",
+            "pilates-swan-prep"
+          ]
+        },
+        {
+          "day": "Saturday",
+          "focus": "Rest",
+          "exerciseIds": [],
+          "exercises": []
+        },
+        {
+          "day": "Sunday",
+          "focus": "Rest",
+          "exerciseIds": [],
+          "exercises": []
+        }
+      ]
+    },
+    {
+      "id": "pilates-power-burn",
+      "title": "30-Minute Power Pilates Sculpt",
+      "category": "pilates",
+      "level": "Advanced",
+      "goal": "Mobility",
+      "duration": "30 min",
+      "daysPerWeek": 5,
+      "description": "Seamless transitions, extended holds, and continuous abdominal burn challenging core stamina and muscular tone.",
+      "schedule": [
+        {
+          "day": "Monday",
+          "focus": "Abdominal Power Series",
+          "exerciseIds": [
+            "pilates-hundred",
+            "pilates-single-leg-stretch",
+            "pilates-double-leg-stretch",
+            "pilates-criss-cross"
+          ],
+          "exercises": [
+            "pilates-hundred",
+            "pilates-single-leg-stretch",
+            "pilates-double-leg-stretch",
+            "pilates-criss-cross"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "focus": "Back Extension & Glute Elevation",
+          "exerciseIds": [
+            "pilates-swan-prep",
+            "pilates-swimming",
+            "pilates-shoulder-bridge"
+          ],
+          "exercises": [
+            "pilates-swan-prep",
+            "pilates-swimming",
+            "pilates-shoulder-bridge"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "focus": "Waistline & Lateral Tone",
+          "exerciseIds": [
+            "pilates-side-leg-lift",
+            "pilates-criss-cross",
+            "pilates-teaser"
+          ],
+          "exercises": [
+            "pilates-side-leg-lift",
+            "pilates-criss-cross",
+            "pilates-teaser"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "focus": "Spinal Articulation & Teaser Mastery",
+          "exerciseIds": [
+            "pilates-roll-up",
+            "pilates-teaser",
+            "pilates-hundred"
+          ],
+          "exercises": [
+            "pilates-roll-up",
+            "pilates-teaser",
+            "pilates-hundred"
+          ]
+        },
+        {
+          "day": "Friday",
+          "focus": "Full-Body Classical Flow",
+          "exerciseIds": [
+            "pilates-hundred",
+            "pilates-roll-up",
+            "pilates-criss-cross",
+            "pilates-swimming",
+            "pilates-teaser"
+          ],
+          "exercises": [
+            "pilates-hundred",
+            "pilates-roll-up",
+            "pilates-criss-cross",
+            "pilates-swimming",
+            "pilates-teaser"
+          ]
+        },
+        {
+          "day": "Saturday",
+          "focus": "Gentle Mobility",
+          "exerciseIds": [],
+          "exercises": []
+        },
+        {
+          "day": "Sunday",
+          "focus": "Rest",
+          "exerciseIds": [],
+          "exercises": []
+        }
+      ]
+    }
+  ]
+}
