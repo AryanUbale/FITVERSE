@@ -1,0 +1,176 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --bg-page: #000000;
+    --surface-1: #111111;
+    --surface-2: #161616;
+    --surface-3: #1A1A1A;
+    --accent-yellow: #FFD21F;
+    --accent-yellow-hover: #FFE04D;
+    --accent-danger: #E5484D;
+    --text-primary: #FFFFFF;
+    --text-secondary: #A1A1A1;
+    --text-muted: #6B6B6B;
+    --border-subtle: rgba(255, 255, 255, 0.08);
+  }
+
+  body {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    overflow-x: hidden;
+  }
+
+  /* Custom scrollbar - pure dark minimalism */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #000000;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #222222;
+    border-radius: 9999px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #FFD21F;
+  }
+}
+
+@layer components {
+  /* POWERBLAST DESIGN SYSTEM COMPONENTS */
+
+  /* Dark card surfaces */
+  .dark-card,
+  .surface-card,
+  .card-app,
+  .glass-card {
+    background: #111111;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 20px;
+    transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .dark-card-elevated,
+  .card-app-elevated {
+    background: #161616;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 20px;
+  }
+
+  .dark-card-hover {
+    transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+  .dark-card-hover:hover {
+    transform: translateY(-4px);
+    border-color: rgba(255, 210, 31, 0.3);
+    box-shadow: 0 16px 36px -8px rgba(0, 0, 0, 0.8);
+  }
+
+  /* Floating dark glass badge */
+  .glass-badge {
+    background: rgba(17, 17, 17, 0.75);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 16px;
+  }
+
+  /* Compact Yellow Pill Button */
+  .btn-yellow,
+  .btn-gradient,
+  .btn-indigo {
+    background-color: #FFD21F;
+    color: #000000;
+    font-weight: 800;
+    border-radius: 9999px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+  .btn-yellow:hover,
+  .btn-gradient:hover,
+  .btn-indigo:hover {
+    background-color: #FFE04D;
+    transform: translateY(-2px);
+    box-shadow: 0 0 25px -4px rgba(255, 210, 31, 0.45);
+  }
+  .btn-yellow:active,
+  .btn-gradient:active,
+  .btn-indigo:active {
+    transform: translateY(0);
+  }
+
+  /* Ghost Button */
+  .btn-ghost,
+  .btn-glass {
+    background: transparent;
+    color: #FFFFFF;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 9999px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+  .btn-ghost:hover,
+  .btn-glass:hover {
+    background: rgba(255, 255, 255, 0.05);
+    border-color: rgba(255, 255, 255, 0.2);
+    transform: translateY(-2px);
+  }
+
+  /* Eyebrow Label */
+  .eyebrow-yellow {
+    font-size: 11px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: #FFD21F;
+  }
+
+  /* Minimal Dark Input */
+  .dark-input,
+  .glass-input,
+  .input-app {
+    background: #111111;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    color: #FFFFFF;
+    border-radius: 12px;
+    transition: all 0.2s ease;
+  }
+  .dark-input:focus,
+  .glass-input:focus,
+  .input-app:focus {
+    outline: none;
+    border-color: #FFD21F;
+    box-shadow: 0 0 0 2px rgba(255, 210, 31, 0.2);
+  }
+
+  /* Pill Chips */
+  .chip-gray {
+    background: #161616;
+    color: #A1A1A1;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 9999px;
+    transition: all 0.15s ease;
+  }
+  .chip-gray:hover {
+    color: #FFFFFF;
+    border-color: rgba(255, 255, 255, 0.2);
+  }
+  .chip-yellow {
+    background: #FFD21F;
+    color: #000000;
+    font-weight: 800;
+    border-radius: 9999px;
+    box-shadow: 0 0 15px rgba(255, 210, 31, 0.35);
+  }
+}
